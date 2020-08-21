@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shared:LeftTabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            mc:Ignorable="d"
+            xmlns:views="clr-namespace:Angpysha.LeftTabbedPage.Demo.Views"
+            xmlns:shared="clr-namespace:Plugin.Angpysha.LeftTabbedPage.Shared;assembly=Plugin.Angpysha.LeftTabbedPage"
+            x:Class="Angpysha.LeftTabbedPage.Demo.Views.MainPage"
+            HeaderHeight="80">
+
+    <shared:LeftTabbedPage.Header>
+        <Grid VerticalOptions="EndAndExpand"
+              HorizontalOptions="CenterAndExpand"
+              WidthRequest="64"
+              HeightRequest="80">
+            <Label Text="Test header"></Label>
+        </Grid>
+    </shared:LeftTabbedPage.Header>
+    <shared:LeftTabbedPage.TabItemTemplate>
+        <DataTemplate>
+            <shared:ViewCellEx>
+                <Grid RowDefinitions="*,Auto"
+                      HeightRequest="64"
+                      WidthRequest="64">
+                    <Image Source="{Binding IconImageSource}"
+                           HeightRequest="40"
+                           WidthRequest="40">
+
+                    </Image>
+                    <Label Text="Test"
+                           Grid.Row="1"
+                           HorizontalOptions="CenterAndExpand"></Label>
+                </Grid>
+            </shared:ViewCellEx>
+        </DataTemplate>
+    </shared:LeftTabbedPage.TabItemTemplate>
+    <TabbedPage.Children>
+        <NavigationPage Title="Browse">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_feed.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:ItemsPage />
+            </x:Arguments>
+        </NavigationPage>
+        
+        <NavigationPage Title="About">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_about.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:AboutPage />
+            </x:Arguments>
+        </NavigationPage>
+    </TabbedPage.Children>
+    
+</shared:LeftTabbedPage>
