@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 using Xamarin.Forms;
+using PropertyChanged;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Shared
 {
-    public class MenuItem : INotifyPropertyChanged
+    [AddINotifyPropertyChangedInterface]
+    public class MenuItem
     {
 
         public string Title { get; set; }
@@ -15,8 +17,6 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
 
         public ImageSource IconImageSource { get; set; }
 
-        public bool Active { get; set; }
-
-        public event PropertyChangedEventHandler PropertyChanged;
+        public bool Active { get;set; }
     }
 }

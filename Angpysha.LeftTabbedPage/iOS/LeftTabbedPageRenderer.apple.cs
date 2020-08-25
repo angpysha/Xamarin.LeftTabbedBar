@@ -523,7 +523,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             MoveToByIndex(e);
         }
 
-        void MoveToByIndex(int selectedIndex, bool forced = false)
+        public virtual void MoveToByIndex(int selectedIndex, bool forced = false)
         {
             if (selectedIndex == lastSelectedIndex && !forced) return;
 
