@@ -373,6 +373,12 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             Platform.SetRenderer(page, null);
         }
 
+        public void SetTab(int index)
+        {
+            var nsIndex = NSIndexPath.FromRowSection(index, 0);
+            TabBar?.SetTab(nsIndex);
+        }
+
         //void UpdateBarBackgroundColor()
         //{
         //    if (Tabbed == null || TabBar == null)

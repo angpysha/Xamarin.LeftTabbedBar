@@ -292,7 +292,7 @@ namespace Plugin.Angpysha.LeftTabbedPage
             return new UIView(new CGRect(0, 0, 0, 0));
         }
 
-        private void SetTab(NSIndexPath index)
+        public void SetTab(NSIndexPath index)
         {
             // var activePath = NSIndexPath.FromRowSection(index, 0);
             if (LeftTabbedPage.TabItemTemplate == null)
