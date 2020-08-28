@@ -21,6 +21,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
     public class LeftTabbedPageRenderer : UIViewController, IVisualElementRenderer, IEffectControlProvider
     {
         public Shared.LeftTabbedPage leftTabbedPage => Element as Shared.LeftTabbedPage;
+        public int PrevIndex => lastSelectedIndex;
         public static void Init()
         {
         }
