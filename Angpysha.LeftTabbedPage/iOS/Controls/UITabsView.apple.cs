@@ -252,9 +252,9 @@ namespace Plugin.Angpysha.LeftTabbedPage
 
             var itemsHeight = MenuItems.Count * 64f;
 
-            var footerHeight = tableHeight - itemsHeight - itemsHeight;
-            _footerHeight = footerHeight;
-            return footerHeight;
+            var footerHeight = tableHeight - itemsHeight - LeftTabbedPage.HeaderHeight- LeftTabbedPage.Footer.Margin.Bottom - LeftTabbedPage.Footer.Margin.Top;
+            _footerHeight = (nfloat)footerHeight;
+            return (nfloat)footerHeight;
         }
 
         [Export("tableView:viewForFooterInSection:")]
