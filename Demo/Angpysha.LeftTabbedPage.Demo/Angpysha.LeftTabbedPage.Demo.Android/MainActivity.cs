@@ -19,6 +19,7 @@ namespace Angpysha.LeftTabbedPage.Demo.Droid
 
             base.OnCreate(savedInstanceState);
 
+            Plugin.Angpysha.LeftTabbedPage.Android.LeftTabbedPageInitializer.Init(this,savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());

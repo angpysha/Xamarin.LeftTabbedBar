@@ -22,6 +22,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         private void OnChildAdded(object sender, ElementEventArgs e)
         {
             var ele = e.Element as View;
+            
             var width = DeviceDisplay.MainDisplayInfo.Width / DeviceDisplay.MainDisplayInfo.Density - 64;
            // WidthRequest = width;
             ele.WidthRequest = width;

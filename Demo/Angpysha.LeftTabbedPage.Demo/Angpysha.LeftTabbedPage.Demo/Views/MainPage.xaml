@@ -28,7 +28,7 @@
                            WidthRequest="40">
 
                     </Image>
-                    <Label Text="Test"
+                    <Label Text="{Binding Title}"
                            Grid.Row="1"
                            HorizontalOptions="CenterAndExpand"></Label>
                 </Grid>
@@ -36,23 +36,25 @@
         </DataTemplate>
     </shared:LeftTabbedPage.TabItemTemplate>
     <TabbedPage.Children>
-        <NavigationPage Title="Browse">
-            <NavigationPage.Icon>
+        <NavigationPage Title="Browse" Icon="tab_feed.png">
+            <!--<NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_feed.png"/>
+                    <On Platform="i" Value="tab_feed.png"/>
+
                 </OnPlatform>
-            </NavigationPage.Icon>
+            </NavigationPage.Icon>-->
             <x:Arguments>
                 <views:ItemsPage />
             </x:Arguments>
         </NavigationPage>
-        
-        <NavigationPage Title="About">
-            <NavigationPage.Icon>
+
+        <NavigationPage Title="About" Icon="tab_about.png">
+            <!--<NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_about.png"/>
                 </OnPlatform>
-            </NavigationPage.Icon>
+            </NavigationPage.Icon>-->
             <x:Arguments>
                 <views:AboutPage />
             </x:Arguments>
