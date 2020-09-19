@@ -74,7 +74,6 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         }
 
         
-
         public LeftTabbedPage()
         {
 

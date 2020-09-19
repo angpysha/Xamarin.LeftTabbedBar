@@ -21,6 +21,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
     public class LeftTabbedPageRenderer : UIViewController, IVisualElementRenderer, IEffectControlProvider
     {
         public Shared.LeftTabbedPage leftTabbedPage => Element as Shared.LeftTabbedPage;
+        public int PrevIndex => lastSelectedIndex;
         public static void Init()
         {
         }
@@ -373,6 +374,12 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             Platform.SetRenderer(page, null);
         }
 
+        public void SetTab(int index)
+        {
+            var nsIndex = NSIndexPath.FromRowSection(index, 0);
+            TabBar?.SetTab(nsIndex);
+        }
+
         //void UpdateBarBackgroundColor()
         //{
         //    if (Tabbed == null || TabBar == null)
@@ -523,7 +530,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             MoveToByIndex(e);
         }
 
-        void MoveToByIndex(int selectedIndex, bool forced = false)
+        public virtual void MoveToByIndex(int selectedIndex, bool forced = false)
         {
             if (selectedIndex == lastSelectedIndex && !forced) return;
 
