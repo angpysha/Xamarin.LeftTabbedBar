@@ -12,7 +12,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         {
             if (WidthRequest == -1)
             {
-                var width = DeviceDisplay.MainDisplayInfo.Width / DeviceDisplay.MainDisplayInfo.Density - 64;
+                var width = DeviceDisplay.MainDisplayInfo.Width / DeviceDisplay.MainDisplayInfo.Density;
                 WidthRequest = width;
             }
 
@@ -23,7 +23,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         {
             var ele = e.Element as View;
             var margins = ele.Margin;
-            var width = DeviceDisplay.MainDisplayInfo.Width / DeviceDisplay.MainDisplayInfo.Density - 64 - margins.Left - margins.Right;
+            var width = DeviceDisplay.MainDisplayInfo.Width / DeviceDisplay.MainDisplayInfo.Density - margins.Left - margins.Right;
            // WidthRequest = width;
             ele.WidthRequest = width;
             ele.HorizontalOptions = LayoutOptions.Start;
@@ -34,7 +34,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         {
             var width = DeviceDisplay.MainDisplayInfo.Width;
             var widthNew = widthConstraint;
-            widthNew = width - 64;
+            widthNew = width;
             return base.OnMeasure(widthNew, heightConstraint);
         }
     }

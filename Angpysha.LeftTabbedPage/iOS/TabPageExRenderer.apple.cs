@@ -8,18 +8,16 @@ using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly:ExportRenderer(typeof(ContentPageEx),typeof(ContentPageExRenderer))]
+[assembly:ExportRenderer(typeof(TabPage),typeof(TabPageExRenderer))]
 namespace Plugin.Angpysha.LeftTabbedPage.iOS
 {
-    public class ContentPageExRenderer : PageRenderer
+    public class TabPageExRenderer : PageRenderer
     {
         protected override void OnElementChanged(VisualElementChangedEventArgs e)
         {
             base.OnElementChanged(e);
 
             var frame = View.Frame;
-
-         //   var widthh = UIApplication.SharedApplication.KeyWindow.Screen.Bounds.Width;
 
             var width = DeviceDisplay.MainDisplayInfo.Width/DeviceDisplay.MainDisplayInfo.Density;
 
@@ -30,10 +28,10 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             {
                 var bounds = Element.Bounds;
                 var ee = bounds.Width;
-                bounds.Width = width2 - 64;
+                bounds.Width = width2;
 
                 Element.Layout(bounds);
-                frame.Width = width2 - 64;
+                frame.Width = width2;
                 View.Frame = frame;
                 View.LayoutSubviews();
                 View.SizeToFit();
