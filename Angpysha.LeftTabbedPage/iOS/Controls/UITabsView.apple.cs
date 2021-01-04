@@ -36,56 +36,6 @@ namespace Plugin.Angpysha.LeftTabbedPage
             table.WeakDataSource = this;
             table.WeakDelegate = this;
             table.RegisterNibForCellReuse(UIVerticalTabbarViewCell.Nib, UIVerticalTabbarViewCell.Key);
-
-            
-            //_tabsView = new UIVerticalTabbar
-            //{
-            //    TranslatesAutoresizingMaskIntoConstraints = false
-            //};
-
-            //var layoutAttr = new NSLayoutAttribute[]
-            //{
-            //    NSLayoutAttribute.Left,
-            //    NSLayoutAttribute.Trailing,
-            //    NSLayoutAttribute.Leading
-            //};
-
-            //AddSubview(_tabsView);
-
-            //for (int i = 0; i < 3; i++)
-            //{
-            //    AddConstraint(NSLayoutConstraint.Create(
-            //        _tabsView,
-            //        layoutAttr[i],
-            //        NSLayoutRelation.Equal,
-            //        this,
-            //        layoutAttr[i],
-            //        1, 0
-            //    ));
-            //}
-
-            //_tabsView.BackgroundColor = UIColor.Green;
-            //AddConstraint(NSLayoutConstraint.Create(
-            //    _tabsView,
-            //    NSLayoutAttribute.Top,
-            //    NSLayoutRelation.GreaterThanOrEqual,
-            //    this,
-            //    NSLayoutAttribute.Top,
-            //    1, 0
-            //));
-            //_tabsView.AddConstraint(NSLayoutConstraint.Create(_tabsView,
-            //    NSLayoutAttribute.Width,
-            //    NSLayoutRelation.Equal,
-            //    1,
-            //    64));
-            //_tabsView.AddConstraint(NSLayoutConstraint.Create(_tabsView,
-            //   NSLayoutAttribute.Height,
-            //   NSLayoutRelation.Equal,
-            //   1,
-            //   164));
-
-
-            //AddConstraint(NSLayoutConstraint.Create())
         }
 
         public void SetData(List<Shared.MenuItem> menuItems)
@@ -107,7 +57,10 @@ namespace Plugin.Angpysha.LeftTabbedPage
         {
             if (LeftTabbedPage.TabItemTemplate != null)
             {
-                var cell = LeftTabbedPage.TabItemTemplate.CreateContent() as ViewCellEx;
+                if (!(LeftTabbedPage.TabItemTemplate.CreateContent() is ViewCellEx cell))
+                {
+                    return null;
+                }
                 cell.BindingContext = MenuItems[indexPath.Row];
                 cell.Parent = LeftTabbedPage;
 
