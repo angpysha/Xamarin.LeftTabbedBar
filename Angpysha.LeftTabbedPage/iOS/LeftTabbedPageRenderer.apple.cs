@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
@@ -22,13 +21,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         private bool _loaded;
         private Size _queuedSize;
         private UITabsView _tabBarView;
-        private UIViewController _selectedViewController;
         
         //its hardcoded, TODO: should be replaced
         private float _tabBarWidth = 64;
         
         private UIPageViewController _pageViewController;
-        private IList<UIViewController> _viewControllers;
         
         public VisualElement Element { get; private set; }
         public UIView NativeView => View;
@@ -58,21 +55,20 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             _tabBarView.Layer.BorderColor = Color.LightGray.ToCGColor();
             _tabBarView.Layer.BorderWidth = 1f;
             _tabBarView.TabSelected += OnTabSelected;
-            View.AddSubview(_tabBarView);
-
+            NativeView.AddSubview(_tabBarView);
             AddChildViewController(_pageViewController);
-            View.AddSubview(_pageViewController.View);
+            NativeView.AddSubview(_pageViewController.View);
             _pageViewController.View.TranslatesAutoresizingMaskIntoConstraints = false;
             
             var views = NSDictionary.FromObjectsAndKeys(
                 new NSObject[] {_tabBarView, _pageViewController.View},
                 new NSObject[] {(NSString) "tabbar", (NSString) "content"});
             
-            View.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[tabbar]-0-|",
+            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[tabbar]-0-|",
                 0, null, views));
-            View.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[content]-0-|",
+            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[content]-0-|",
                 0, null, views));
-            View.AddConstraints(NSLayoutConstraint.FromVisualFormat("H:|-0-[tabbar]-0-[content]-0-|",
+            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("H:|-0-[tabbar]-0-[content]-0-|",
                 0, null, views));
 
             var tabBarWidthConstraint = NSLayoutConstraint.Create(_tabBarView, NSLayoutAttribute.Width,
@@ -86,7 +82,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 
                 //we use Children.IndexOf instead of CurrentPage.TabIndex because TabIndex is 0 here
                 //TODO: why?
-                SetTab(TabbedPage.Children.IndexOf(TabbedPage.CurrentPage));
+                LastSelectedIndex = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
+                SetTab(LastSelectedIndex);
             }
 
             //COMMENTED CODE: looks like useless
@@ -105,14 +102,14 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             if (Element == null)
                 return;
             if (!Element.Bounds.IsEmpty)
-                View.Frame = new RectangleF((float) Element.X, (float) Element.Y, (float) Element.Width,
+                NativeView.Frame = new RectangleF((float) Element.X, (float) Element.Y, (float) Element.Width,
                     (float) Element.Height);
+            TabbedPage.ContainerArea = _pageViewController.View.Bounds.ToRectangle();
             if (!_queuedSize.IsZero)
             {
                 Element.Layout(new Rectangle(Element.X, Element.Y, _queuedSize.Width, _queuedSize.Height));
                 _queuedSize = Size.Zero;
             }
-
             _loaded = true;
         }
 
@@ -128,11 +125,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
             TabbedPage.PropertyChanged += OnPropertyChanged;
             OnElementChanged(new VisualElementChangedEventArgs(oldElement, element));
-            var menuItems = TabbedPage.Children.Select(x => new Shared.MenuItem()
-            {
-                Title = x.Title,
-                IconImageSource = x.IconImageSource
-            }).ToList();
+            var menuItems = TabbedPage.Children
+                .Select(x => new Shared.MenuItem {Title = x.Title, IconImageSource = x.IconImageSource}).ToList();
             _tabBarView.SetData(menuItems);
             
             element?.SendViewInitialized(NativeView);
@@ -257,17 +251,17 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 : UIPageViewControllerNavigationDirection.Reverse;
 
             LastSelectedIndex = selectedIndex;
-            _selectedViewController = GetViewController(TabbedPage.Children[LastSelectedIndex]);
-            _pageViewController.SetViewControllers(new[] {_selectedViewController},
+            var selectedViewController = GetViewController(TabbedPage.Children[LastSelectedIndex]);
+            _pageViewController.SetViewControllers(new[] {selectedViewController},
                 direction, false, (finished) =>
                 {
                     var failed = _pageViewController.ViewControllers.Length == 0
-                                 || _pageViewController.ViewControllers[0] != _selectedViewController;
+                                 || _pageViewController.ViewControllers[0] != selectedViewController;
                     //sometimes SetViewControllers doesn't work as expected
                     //TODO: why?
                     if (failed)
                     {
-                        _pageViewController.SetViewControllers(new[] {_selectedViewController},
+                        _pageViewController.SetViewControllers(new[] {selectedViewController},
                             direction, false, null);
                     }
                 });
@@ -288,7 +282,6 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 var controller = GetViewController(current);
                 if (controller == null)
                     return;
-                _selectedViewController = controller;
                 MoveToByIndex(TabbedPage.CurrentPage.TabIndex);
             }
         }
@@ -311,7 +304,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             var method = typeof(Forms).GetMethods(System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Static)
                 .FirstOrDefault(x => x.Name == nameof(SendViewInitialized));
 
-            method.Invoke(null, new object[] { element, nativeView });
+            method?.Invoke(null, new object[] { element, nativeView });
         }
     }
 }

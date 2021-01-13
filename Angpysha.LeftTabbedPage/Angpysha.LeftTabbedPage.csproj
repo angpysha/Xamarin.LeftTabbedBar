@@ -67,9 +67,6 @@
 
   <ItemGroup>
     <Compile Include="**\*.shared.cs" />
-    <Compile Include="Shared\TabPage.cs">
-      <SubType></SubType>
-    </Compile>
   </ItemGroup>
 
   <ItemGroup Condition=" $(TargetFramework.StartsWith('netstandard')) ">
