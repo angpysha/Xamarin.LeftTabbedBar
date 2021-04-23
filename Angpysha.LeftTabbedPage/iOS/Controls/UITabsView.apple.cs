@@ -38,15 +38,24 @@ namespace Plugin.Angpysha.LeftTabbedPage
             table.RegisterNibForCellReuse(UIVerticalTabbarViewCell.Nib, UIVerticalTabbarViewCell.Key);
         }
 
-        public void SetData(List<Shared.MenuItem> menuItems)
+        public void SetData(List<Shared.MenuItem> menuItems,bool setPath = true)
         {
             MenuItems = menuItems;
             var rowHeight = UIScreen.MainScreen.Bounds.Height / MenuItems.Count;
             table.RowHeight = 64;
-            var path = NSIndexPath.FromRowSection(0, 0);
-            SetTab(path);
-           // _tabsView.SetItems(MenuItems);
+            if (setPath)
+            {
+                var path = NSIndexPath.FromRowSection(0, 0);
+                SetTab(path);
+            }
+            // _tabsView.SetItems(MenuItems);
         }
+
+        public void ReloadData()
+        {
+            table.ReloadData();
+        }
+        
 
         public nint RowsInSection(UITableView tableView, nint section)
         {
@@ -138,25 +147,6 @@ namespace Plugin.Angpysha.LeftTabbedPage
             TabSelected(this, indexPath.Row);
             
             SetTab(indexPath);
-           // var cell = tableView.CellAt(indexPath);
-
-           //for (int i =0; i < MenuItems?.Count; i++)
-           // {
-           //     var path = NSIndexPath.FromRowSection(i, 0);
-           //     var celll = tableView.CellAt(path) as UIVerticalTabbarViewCell;
-           //     celll.TitleView.TextColor = UIColor.Gray;
-           //     celll.IconView.TintColor = UIColor.Gray;
-
-           // }
-
-           // if (cell is UIVerticalTabbarViewCell verticalTabbarViewCell)
-           // {
-           //     verticalTabbarViewCell.TitleView.TextColor = UIColor.Cyan;
-           //    // var image = verticalTabbarViewCell.ImageView.Image.ImageWithRenderingMode(UIImageRenderingMode.AlwaysTemplate);
-           //   //  verticalTabbarViewCell.ImageView.Image = image;
-           //     verticalTabbarViewCell.IconView.TintColor = UIColor.Cyan;
-
-           // }
         }
 
         [Export("tableView:viewForHeaderInSection:")]

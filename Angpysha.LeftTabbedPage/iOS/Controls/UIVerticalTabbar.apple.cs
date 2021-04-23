@@ -119,6 +119,11 @@ namespace Plugin.Angpysha.LeftTabbedPage
             
         }
 
+        internal void ReloadData()
+        {
+            OutletTabs?.ReloadData();
+        }
+
         [Export("tableView:didSelectRowAtIndexPath:")]
         public void RowSelected(UITableView tableView,NSIndexPath indexPath)
         {

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
@@ -133,6 +134,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             EffectUtilities.RegisterEffectControlProvider(this, oldElement, element);
         }
 
+        public void ReloadTabs(List<Shared.MenuItem> menuItems)
+        {
+            _tabBarView.SetData(menuItems,false);
+            _tabBarView.ReloadData();
+        }
         public void SetElementSize(Size size)
         {
             if (_loaded)
