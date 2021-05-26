@@ -6,10 +6,12 @@ using System.Linq;
 using CoreGraphics;
 using Foundation;
 using UIKit;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 using Xamarin.Forms.Platform.iOS;
 using Color = Xamarin.Forms.Color;
+using Platform = Xamarin.Forms.Platform.iOS.Platform;
 using Rectangle = Xamarin.Forms.Rectangle;
 using Size = Xamarin.Forms.Size;
 
@@ -49,46 +51,36 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         {
             base.ViewDidLoad();
             
-            _tabBarView.Layer.MasksToBounds = false;
-            _tabBarView.Layer.ShadowRadius = 5f;
-            _tabBarView.Layer.ShadowOffset = new CGSize(0.0f, 4.0f);
-            _tabBarView.Layer.ShadowOpacity = 0.25f;
-            _tabBarView.Layer.BorderColor = Color.LightGray.ToCGColor();
-            _tabBarView.Layer.BorderWidth = 1f;
-            _tabBarView.TabSelected += OnTabSelected;
-            NativeView.AddSubview(_tabBarView);
-            AddChildViewController(_pageViewController);
-            NativeView.AddSubview(_pageViewController.View);
-            _pageViewController.View.TranslatesAutoresizingMaskIntoConstraints = false;
+             _tabBarView.Layer.MasksToBounds = false;
+             _tabBarView.Layer.ShadowRadius = 5f;
+             _tabBarView.Layer.ShadowOffset = new CGSize(0.0f, 4.0f);
+             _tabBarView.Layer.ShadowOpacity = 0.25f;
+             _tabBarView.Layer.BorderColor = Color.LightGray.ToCGColor();
+             _tabBarView.Layer.BorderWidth = 1f;
+             _tabBarView.TabSelected += OnTabSelected;
+             NativeView.AddSubview(_tabBarView);
+             AddChildViewController(_pageViewController);
+             NativeView.AddSubview(_pageViewController.View);
+             _pageViewController.View.TranslatesAutoresizingMaskIntoConstraints = false;
             
-            var views = NSDictionary.FromObjectsAndKeys(
-                new NSObject[] {_tabBarView, _pageViewController.View},
-                new NSObject[] {(NSString) "tabbar", (NSString) "content"});
+             var views = NSDictionary.FromObjectsAndKeys(
+                 new NSObject[] {_tabBarView, _pageViewController.View},
+                 new NSObject[] {(NSString) "tabbar", (NSString) "content"});
             
-            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[tabbar]-0-|",
-                0, null, views));
-            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[content]-0-|",
-                0, null, views));
-            NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("H:|-0-[tabbar]-0-[content]-0-|",
-                0, null, views));
+             NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[tabbar]-0-|",
+                 0, null, views));
+             NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("V:|-0-[content]-0-|",
+                 0, null, views));
+             NativeView.AddConstraints(NSLayoutConstraint.FromVisualFormat("H:|-0-[tabbar]-0-[content]-0-|",
+                 0, null, views));
+            
+             var tabBarWidthConstraint = NSLayoutConstraint.Create(_tabBarView, NSLayoutAttribute.Width,
+                 NSLayoutRelation.Equal, 1, _tabBarWidth);
+             _tabBarView.AddConstraint(tabBarWidthConstraint);
+             
 
-            var tabBarWidthConstraint = NSLayoutConstraint.Create(_tabBarView, NSLayoutAttribute.Width,
-                NSLayoutRelation.Equal, 1, _tabBarWidth);
-            _tabBarView.AddConstraint(tabBarWidthConstraint);
-            if (_pageViewController.ViewControllers.Length == 0
-                && LastSelectedIndex >= 0 && LastSelectedIndex < TabbedPage.Children.Count)
-            {
-                _pageViewController.SetViewControllers(new[] {GetViewController(TabbedPage.CurrentPage)},
-                    UIPageViewControllerNavigationDirection.Forward, true, null);
-                
-                //we use Children.IndexOf instead of CurrentPage.TabIndex because TabIndex is 0 here
-                //TODO: why?
-                LastSelectedIndex = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
-                SetTab(LastSelectedIndex);
-            }
-
-            //COMMENTED CODE: looks like useless
-            //_pageViewController.DidFinishAnimating += OnDidFinishAnimating;
+            // COMMENTED CODE: looks like useless
+            // _pageViewController.DidFinishAnimating += OnDidFinishAnimating;
         }
 
         public override void ViewDidAppear(bool animated)
@@ -102,18 +94,44 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             base.ViewDidLayoutSubviews();
             if (Element == null)
                 return;
+
+            var newWidth = (float) Element.Width + _tabBarWidth;
             if (!Element.Bounds.IsEmpty)
-                NativeView.Frame = new RectangleF((float) Element.X, (float) Element.Y, (float) Element.Width,
+                NativeView.Frame = new RectangleF(0, (float) Element.Y, (float) Element.Width+_tabBarWidth,
                     (float) Element.Height);
-            TabbedPage.ContainerArea = _pageViewController.View.Bounds.ToRectangle();
-            if (!_queuedSize.IsZero)
+            if (_pageViewController.ViewControllers.Length == 0
+                && LastSelectedIndex >= 0 && LastSelectedIndex < TabbedPage.Children.Count)
             {
-                Element.Layout(new Rectangle(Element.X, Element.Y, _queuedSize.Width, _queuedSize.Height));
-                _queuedSize = Size.Zero;
+                _pageViewController.SetViewControllers(new[] {GetViewController(TabbedPage.CurrentPage)},
+                    UIPageViewControllerNavigationDirection.Forward, true, null);
+                
+                //we use Children.IndexOf instead of CurrentPage.TabIndex because TabIndex is 0 here
+                //TODO: why?
+                LastSelectedIndex = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
+                SetTab(LastSelectedIndex);
             }
-            _loaded = true;
+          //  OnTabSelected(this,0);
+            //
+            //
+            // var pageVcFrame = _pageViewController.View.Frame;
+            // // int iii = 0;
+            // // var rect = _pageViewController.View.Bounds.ToRectangle();
+            // // rect.X = 0;
+            // // //rect.Width += _tabBarWidth;
+            // var rect = pageVcFrame.ToRectangle();
+            // rect.X = 0;
+            // int iii = 0;
+            // TabbedPage.ContainerArea = rect;
+
+            // if (!_queuedSize.IsZero)
+            // {
+            //     Element.Layout(new Rectangle(Element.X, Element.Y, _queuedSize.Width, _queuedSize.Height));
+            //     _queuedSize = Size.Zero;
+            // }
+            // _loaded = true;
         }
 
+        
         public SizeRequest GetDesiredSize(double widthConstraint, double heightConstraint)
         {
             return NativeView.GetSizeRequest(widthConstraint, heightConstraint);
@@ -141,10 +159,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         }
         public void SetElementSize(Size size)
         {
-            if (_loaded)
-                Element.Layout(new Rectangle(Element.X, Element.Y, size.Width, size.Height));
-            else
-                _queuedSize = size;
+            var widthNew = size.Width - _tabBarWidth;
+            // if (_loaded)
+            Element.Layout(new Rectangle(_tabBarWidth, Element.Y, widthNew, size.Height));
+            // else
+            //     _queuedSize = size;
         }
         public event EventHandler<VisualElementChangedEventArgs> ElementChanged;
         
@@ -199,7 +218,13 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
         private UIViewController GetViewController(Page page)
         {
+            // var screenWidth = DeviceDisplay.MainDisplayInfo.Width;
+            // var screenHeight = DeviceDisplay.MainDisplayInfo.Height;
+            // page.WidthRequest = screenWidth - _tabBarWidth;
+            // page.Layout(new Rectangle(0,0,screenWidth-_tabBarWidth,screenHeight));
+        
             var renderer = page.GetRenderer();
+        
             if (renderer == null)
             {
                 SetupPageRenderer(page);
