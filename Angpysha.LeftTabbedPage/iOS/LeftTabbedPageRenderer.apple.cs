@@ -259,7 +259,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             LastSelectedIndex = TabbedPage.CurrentPage.TabIndex;
         }*/
 
-        private void OnTabSelected(object sender, int index)
+        protected virtual void OnTabSelected(object sender, int index)
         {
             var selectedPage = TabbedPage.Children[index];
             SetupPageRenderer(selectedPage);
@@ -303,7 +303,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             _tabBarView.SetTab(NSIndexPath.FromRowSection(index, 0));
         }
 
-        private void OnPropertyChanged(object sender, PropertyChangedEventArgs args)
+        protected virtual void OnPropertyChanged(object sender, PropertyChangedEventArgs args)
         {
             if (args.PropertyName == nameof(Xamarin.Forms.TabbedPage.CurrentPage))
             {
