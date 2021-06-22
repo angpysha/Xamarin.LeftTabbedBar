@@ -313,7 +313,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 var controller = GetViewController(current);
                 if (controller == null)
                     return;
-                MoveToByIndex(TabbedPage.CurrentPage.TabIndex);
+                var index = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
+                MoveToByIndex(index);
             }
         }
 
