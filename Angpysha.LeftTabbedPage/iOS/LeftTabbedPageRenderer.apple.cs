@@ -246,18 +246,9 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         private void TeardownPageRenderer(Page page)
         {
             var renderer = page?.GetRenderer();
-            if(renderer != null)
+            if (renderer != null)
                 Platform.SetRenderer(page, null);
         }
-
-        //COMMENTED CODE: looks like useless
-        /*private void OnDidFinishAnimating(object sender, EventArgs args)
-        {
-            if (_pageViewController.ViewControllers.Length == 0)
-                return;
-            _selectedViewController = _pageViewController.ViewControllers[0];
-            LastSelectedIndex = TabbedPage.CurrentPage.TabIndex;
-        }*/
 
         protected virtual void OnTabSelected(object sender, int index)
         {
@@ -314,7 +305,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 if (controller == null)
                     return;
                 var index = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
-                MoveToByIndex(index);
+                //MoveToByIndex(index);
             }
         }
 

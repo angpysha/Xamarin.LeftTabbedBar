@@ -146,7 +146,7 @@ namespace Plugin.Angpysha.LeftTabbedPage
         {
             TabSelected(this, indexPath.Row);
             
-            SetTab(indexPath);
+           // SetTab(indexPath);
         }
 
         [Export("tableView:viewForHeaderInSection:")]
