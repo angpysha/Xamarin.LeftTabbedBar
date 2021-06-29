@@ -254,7 +254,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         {
             var selectedPage = TabbedPage.Children[index];
             SetupPageRenderer(selectedPage);
-            MoveToByIndex(index);
+          //  MoveToByIndex(index);
         }
 
         public virtual void MoveToByIndex(int selectedIndex, bool forced = false)
@@ -305,7 +305,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                 if (controller == null)
                     return;
                 var index = TabbedPage.Children.IndexOf(TabbedPage.CurrentPage);
-                //MoveToByIndex(index);
+                MoveToByIndex(index);
             }
         }
 
