@@ -254,6 +254,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         {
             var selectedPage = TabbedPage.Children[index];
             SetupPageRenderer(selectedPage);
+            var nextPage = TabbedPage.Children[index];
+            if (TabbedPage.CurrentPage != nextPage)
+            {
+                TabbedPage.CurrentPage = nextPage;
+            }
           //  MoveToByIndex(index);
         }
 
@@ -262,11 +267,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             if (selectedIndex == LastSelectedIndex && !forced)
                 return;
 
-            var nextPage = TabbedPage.Children[selectedIndex];
-            if (TabbedPage.CurrentPage != nextPage)
-            {
-                TabbedPage.CurrentPage = nextPage;
-            }
+            // var nextPage = TabbedPage.Children[selectedIndex];
+            // if (TabbedPage.CurrentPage != nextPage)
+            // {
+            //     TabbedPage.CurrentPage = nextPage;
+            // }
 
             var direction = LastSelectedIndex < selectedIndex
                 ? UIPageViewControllerNavigationDirection.Forward
