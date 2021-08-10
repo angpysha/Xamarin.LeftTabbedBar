@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <!--Work around so the conditions work below-->
-    <TargetFrameworks>netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;Xamarin.iOS10;MonoAndroid90;MonoAndroid11.0;MonoAndroid10.0</TargetFrameworks>
     <!--<TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90;uap10.0.16299</TargetFrameworks>
     <TargetFrameworks Condition=" '$(OS)' != 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>-->
     <!--Feel free to add as many targets as you need below
@@ -12,7 +12,7 @@
     <AssemblyName>Plugin.Angpysha.LeftTabbedPage</AssemblyName>
     <RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
     <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
-    
+    <LangVersion>9</LangVersion>
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
     <AssemblyVersion>0.0.0.1</AssemblyVersion>
     <AssemblyFileVersion>0.0.0.1</AssemblyFileVersion>
