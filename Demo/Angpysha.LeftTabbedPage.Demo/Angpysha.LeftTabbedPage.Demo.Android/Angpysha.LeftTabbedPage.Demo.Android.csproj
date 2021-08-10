@@ -16,15 +16,14 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <UseShortFileNames>True</UseShortFileNames>
-    <IntermediateOutputPath>C:\lefttabed</IntermediateOutputPath>
+<!--    <IntermediateOutputPath>C:\lefttabed</IntermediateOutputPath>-->
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -94,7 +93,7 @@
       <Name>Angpysha.LeftTabbedPage</Name>
     </ProjectReference>
     <ProjectReference Include="..\Angpysha.LeftTabbedPage.Demo\Angpysha.LeftTabbedPage.Demo.csproj">
-      <Project>{31CFE4DF-13AF-4CA3-B3BF-A99D58CC5A02}</Project>
+      <Project>{31F50EF7-4C03-4B71-9206-BB63A3010CB9}</Project>
       <Name>Angpysha.LeftTabbedPage.Demo</Name>
     </ProjectReference>
   </ItemGroup>

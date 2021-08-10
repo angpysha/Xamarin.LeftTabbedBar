@@ -1,219 +1,208 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.54">
 
-  <PropertyGroup>
-    <!--Work around so the conditions work below-->
-    <TargetFrameworks>netstandard2.0;netstandard2.1;Xamarin.iOS10;MonoAndroid90;MonoAndroid11.0;MonoAndroid10.0</TargetFrameworks>
-    <!--<TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90;uap10.0.16299</TargetFrameworks>
-    <TargetFrameworks Condition=" '$(OS)' != 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>-->
-    <!--Feel free to add as many targets as you need below
-    netstandard1.0;netstandard2.0;MonoAndroid90;Xamarin.iOS10;uap10.0.16299;Xamarin.TVOS10;Xamarin.WatchOS10;Xamarin.Mac20;Tizen40
-    For UWP update the version number with a version number you have installed.
-    -->
-    <AssemblyName>Plugin.Angpysha.LeftTabbedPage</AssemblyName>
-    <RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
-    <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
-    <LangVersion>9</LangVersion>
-    <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>0.0.0.1</AssemblyVersion>
-    <AssemblyFileVersion>0.0.0.1</AssemblyFileVersion>
-    <Version>0.0.0.1</Version>
-    <PackageVersion>0.0.0.1</PackageVersion>
-    <PackOnBuild>true</PackOnBuild>
-    <NeutralLanguage>en</NeutralLanguage>
-    <LangVersion>default</LangVersion>
-    <DefineConstants>$(DefineConstants);</DefineConstants>
-    
-    <UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
-    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <PropertyGroup>
+        <!--Work around so the conditions work below-->
+        <TargetFrameworks>netstandard2.0;netstandard2.1;Xamarin.iOS10;MonoAndroid11.0;</TargetFrameworks>
+        <!--<TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90;uap10.0.16299</TargetFrameworks>
+        <TargetFrameworks Condition=" '$(OS)' != 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>-->
+        <!--Feel free to add as many targets as you need below
+        netstandard1.0;netstandard2.0;MonoAndroid90;Xamarin.iOS10;uap10.0.16299;Xamarin.TVOS10;Xamarin.WatchOS10;Xamarin.Mac20;Tizen40
+        For UWP update the version number with a version number you have installed.
+        -->
+        <AssemblyName>Plugin.Angpysha.LeftTabbedPage</AssemblyName>
+        <RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
+        <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
+        <LangVersion>9</LangVersion>
+        <Product>$(AssemblyName) ($(TargetFramework))</Product>
+        <AssemblyVersion>0.0.0.1</AssemblyVersion>
+        <AssemblyFileVersion>0.0.0.1</AssemblyFileVersion>
+        <Version>0.0.0.1</Version>
+        <PackageVersion>0.0.0.1</PackageVersion>
+        <PackOnBuild>true</PackOnBuild>
+        <NeutralLanguage>en</NeutralLanguage>
+        <LangVersion>default</LangVersion>
+        <DefineConstants>$(DefineConstants);</DefineConstants>
 
-    <LangVersion>latest</LangVersion>
-    <DebugType>portable</DebugType>
-    
-    <!--TODO: Fill these in-->
-    <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>LINK TO PROJECT</PackageProjectUrl>
-    <RepositoryUrl>LINK TO PROJECT</RepositoryUrl>
-    <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
-    <PackageIconUrl>ICON URL</PackageIconUrl>
-    <PackageTags>tabbedpage</PackageTags>
-    
-    <Title>Left tabbed page</Title>
-    <Summary>Summary of nuget</Summary>
-    <Description>Plugin Description</Description>
-    
-    
-    <Owners>Andrii Petrovskyi</Owners>
-    <Authors>Andrii Petrovskyi</Authors>
-    <Copyright>Copyright 2020</Copyright>
+        <UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
+        <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
 
-    <!--When built in 2019 will remove extra references on pack-->
-    <DisableExtraReferences>true</DisableExtraReferences>
-    
-  </PropertyGroup>
+        <LangVersion>latest</LangVersion>
+        <DebugType>portable</DebugType>
 
-  <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
-    <DebugSymbols>true</DebugSymbols>
-    <GenerateDocumentationFile>false</GenerateDocumentationFile>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)'=='Release' ">
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
-  </PropertyGroup>
+        <!--TODO: Fill these in-->
+        <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>LINK TO PROJECT</PackageProjectUrl>
+        <RepositoryUrl>LINK TO PROJECT</RepositoryUrl>
+        <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
+        <PackageIconUrl>ICON URL</PackageIconUrl>
+        <PackageTags>tabbedpage</PackageTags>
 
-  <PropertyGroup>
-    <IncludeSymbols>true</IncludeSymbols>
-    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-  </PropertyGroup>
+        <Title>Left tabbed page</Title>
+        <Summary>Summary of nuget</Summary>
+        <Description>Plugin Description</Description>
 
-  <ItemGroup>
-    <Compile Include="**\*.shared.cs" />
-  </ItemGroup>
 
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('netstandard')) ">
-  </ItemGroup>
+        <Owners>Andrii Petrovskyi</Owners>
+        <Authors>Andrii Petrovskyi</Authors>
+        <Copyright>Copyright 2020</Copyright>
 
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('uap10.0')) ">
-    <Compile Include="**\*.uwp.cs" />
+        <!--When built in 2019 will remove extra references on pack-->
+        <DisableExtraReferences>true</DisableExtraReferences>
+
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
+        <DebugSymbols>true</DebugSymbols>
+        <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)'=='Release' ">
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="**\*.shared.cs"/>
+    </ItemGroup>
+
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('netstandard')) ">
+    </ItemGroup>
+
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('uap10.0')) ">
+        <Compile Include="**\*.uwp.cs"/>
+        <!--
+        If you need to add sdk references:
+         <SDKReference Include="WindowsMobile, Version=10.0.16299.0">
+          <Name>Windows Mobile Extensions for the UWP</Name>
+        </SDKReference>
+        -->
+    </ItemGroup>
+
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
+        <Compile Include="**\*.android.cs"/>
+    </ItemGroup>
+
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.iOS')) ">
+        <Compile Include="**\*.apple.cs"/>
+        <Compile Include="**\*.apple.designer.cs"/>
+        <InterfaceDefinition Include="**\*.apple.xib"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2"/>
+        <PackageReference Include="Xamarin.Forms" Version="4.7.0.1239"/>
+        <PackageReference Include="Fody" Version="6.2.4">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="PropertyChanged.Fody" Version="3.2.8"/>
+    </ItemGroup>
+
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
+        <None Include="Resources\AboutResources.txt"/>
+
+
+        <AndroidResource Include="Resources\xml\*.xml;Resources\font\*.*;Resources\values\*.xml"/>
+
+        <AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;"/>
+        <AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;"/>
+
+
+        <AndroidResource Include="Resources\layout\*.xml;Resources\drawable\*.xml">
+            <Generator>MSBuild:UpdateAndroidResources</Generator>
+            <SubType>Designer</SubType>
+        </AndroidResource>
+
+        <Reference Include="Microsoft.CSharp"/>
+        <Reference Include="Mono.Android"/>
+        <Reference Include="mscorlib"/>
+        <Reference Include="System"/>
+        <Reference Include="System.Core"/>
+        <Reference Include="System.Xml.Linq"/>
+        <Reference Include="System.Xml"/>
+        <Reference Include="System.Web.Services"/>
+        <!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />-->
+
+        <Reference Include="System.Numerics"/>
+        <Reference Include="System.Numerics.Vectors"/>
+
+    </ItemGroup>
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
+        <PackageReference Include="Xamarin.AndroidX.Browser">
+            <Version>1.2.0.1</Version>
+        </PackageReference>
+        <PackageReference Include="Xamarin.AndroidX.CoordinatorLayout">
+            <Version>1.1.0.2</Version>
+        </PackageReference>
+        <PackageReference Include="Xamarin.AndroidX.Legacy.Support.V4">
+            <Version>1.0.0.1</Version>
+        </PackageReference>
+        <PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData">
+            <Version>2.2.0.1</Version>
+        </PackageReference>
+        <PackageReference Include="Xamarin.AndroidX.Migration">
+            <Version>1.0.6.2</Version>
+        </PackageReference>
+        <PackageReference Include="Xamarin.AndroidX.CardView" Version="1.0.0.2"/>
+        <PackageReference Include="Xamarin.AndroidX.ViewPager2" Version="1.0.0.4"/>
+        <PackageReference Include="Xamarin.Google.Android.Material" Version="1.1.0.2-rc3"/>
+        <PackageReference Include="Xamarin.AndroidX.ConstraintLayout" Version="1.1.3.2"/>
+        <PackageReference Include="Xamarin.AndroidX.RecyclerView" Version="1.1.0.2"/>
+    </ItemGroup>
+
+    <PropertyGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
+        <RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
+        <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+        <AndroidResgenClass>Resource</AndroidResgenClass>
+        <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+        <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+        <AndroidUseIntermediateDesignerFile>true</AndroidUseIntermediateDesignerFile>
+        <AndroidUseManagedDesignTimeResourceGenerator>False</AndroidUseManagedDesignTimeResourceGenerator>
+        <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
+        <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
+        <!--   <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+           <AndroidUseAapt2>true</AndroidUseAapt2>-->
+    </PropertyGroup>
+
+    <!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets"
+            Condition=" $(TargetFramework.StartsWith('MonoAndroid')) "/>-->
+    <ItemGroup>
+        <None Remove="Shared\ContentPageEx.shared.cs"/>
+    </ItemGroup>
+
+
+    <!--Additional item groups-->
     <!--
-    If you need to add sdk references:
-     <SDKReference Include="WindowsMobile, Version=10.0.16299.0">
-      <Name>Windows Mobile Extensions for the UWP</Name>
-    </SDKReference>
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.TVOS')) ">
+      <Compile Include="**\*.tvos.cs" />
+    </ItemGroup>
+  
+  
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.WatchOS')) ">
+      <Compile Include="**\*.watchos.cs" />
+    </ItemGroup>
+  
+  
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.Mac')) ">
+      <Compile Include="**\*.mac.cs" />
+    </ItemGroup>
+  
+    
+     <ItemGroup Condition=" $(TargetFramework.StartsWith('netcoreapp')) ">
+      <Compile Include="**\*.netcore.cs" />
+    </ItemGroup>
+    
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('Tizen')) ">
+      <Compile Include="**\*.tizen.cs" />
+      <PackageReference Include="Tizen.NET" Version="4.0.0" />
+    </ItemGroup>
+  
+    <ItemGroup Condition=" $(TargetFramework.StartsWith('net45')) ">
+      <Compile Include="**\*.dotnet.cs" />
+    </ItemGroup>
     -->
-  </ItemGroup>
-
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-    <Compile Include="**\*.android.cs" />
-  </ItemGroup>
-
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.iOS')) ">
-    <Compile Include="**\*.apple.cs" />
-    <Compile Include="**\*.apple.designer.cs" />
-    <InterfaceDefinition Include="**\*.apple.xib" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
-    <PackageReference Include="Xamarin.Forms" Version="4.7.0.1239" />
-    <PackageReference Include="Fody" Version="6.2.4">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="PropertyChanged.Fody" Version="3.2.8" />
-  </ItemGroup>
-
- <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-   <None Include="Resources\AboutResources.txt" />
-
-
-   <AndroidResource Include="Resources\xml\*.xml;Resources\font\*.*;Resources\values\*.xml" />
-
-   <AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;" />
-   <AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;" />
-
-
-   <AndroidResource Include="Resources\layout\*.xml;Resources\drawable\*.xml">
-     <Generator>MSBuild:UpdateAndroidResources</Generator>
-     <SubType>Designer</SubType>
-   </AndroidResource>
-
-   <Reference Include="Microsoft.CSharp" />
-   <Reference Include="Mono.Android" />
-   <Reference Include="mscorlib" />
-   <Reference Include="System" />
-   <Reference Include="System.Core" />
-   <Reference Include="System.Xml.Linq" />
-   <Reference Include="System.Xml" />
-   <Reference Include="System.Web.Services" />
-   <!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />-->
-
-   <Reference Include="System.Numerics" />
-   <Reference Include="System.Numerics.Vectors" />
-
- </ItemGroup>
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-     <PackageReference Include="Xamarin.AndroidX.Browser">
-      <Version>1.2.0.1</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.AndroidX.CoordinatorLayout">
-      <Version>1.1.0.2</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.AndroidX.Legacy.Support.V4">
-      <Version>1.0.0.1</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData">
-      <Version>2.2.0.1</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.AndroidX.Migration">
-      <Version>1.0.6.2</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.AndroidX.CardView" Version="1.0.0.2" />
-    <PackageReference Include="Xamarin.AndroidX.ViewPager2" Version="1.0.0.4" />
-    <PackageReference Include="Xamarin.Google.Android.Material" Version="1.1.0.2-rc3" />
-    <PackageReference Include="Xamarin.AndroidX.ConstraintLayout" Version="1.1.3.2" />
-    <PackageReference Include="Xamarin.AndroidX.RecyclerView" Version="1.1.0.2" />
-  </ItemGroup>
-
-<PropertyGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-  <RootNamespace> Plugin.Angpysha.LeftTabbedPage</RootNamespace>
-  <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
-    <AndroidResgenClass>Resource</AndroidResgenClass>
-    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
-    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-  <AndroidUseIntermediateDesignerFile>true</AndroidUseIntermediateDesignerFile>
-  <AndroidUseManagedDesignTimeResourceGenerator>False</AndroidUseManagedDesignTimeResourceGenerator>
-  <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
-  <!--   <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
-     <AndroidUseAapt2>true</AndroidUseAapt2>-->
-</PropertyGroup>
-
-  <!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets"
-          Condition=" $(TargetFramework.StartsWith('MonoAndroid')) "/>-->
-  <ItemGroup>
-    <None Remove="Shared\ContentPageEx.shared.cs" />
-  </ItemGroup>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <!--Additional item groups-->
-  <!--
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.TVOS')) ">
-    <Compile Include="**\*.tvos.cs" />
-  </ItemGroup>
-
-
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.WatchOS')) ">
-    <Compile Include="**\*.watchos.cs" />
-  </ItemGroup>
-
-
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.Mac')) ">
-    <Compile Include="**\*.mac.cs" />
-  </ItemGroup>
-
-  
-   <ItemGroup Condition=" $(TargetFramework.StartsWith('netcoreapp')) ">
-    <Compile Include="**\*.netcore.cs" />
-  </ItemGroup>
-  
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('Tizen')) ">
-    <Compile Include="**\*.tizen.cs" />
-    <PackageReference Include="Tizen.NET" Version="4.0.0" />
-  </ItemGroup>
-
-  <ItemGroup Condition=" $(TargetFramework.StartsWith('net45')) ">
-    <Compile Include="**\*.dotnet.cs" />
-  </ItemGroup>
-  -->
 </Project>

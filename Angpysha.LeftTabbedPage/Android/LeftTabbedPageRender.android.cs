@@ -12,6 +12,8 @@ using Plugin.Angpysha.LeftTabbedPage.Shared;
 using Plugin.Angpysha.LeftTabbedPage.Android;
 using AndroidX.RecyclerView.Widget;
 using System.Linq;
+using AndroidX.Fragment.App;
+using AndroidX.ViewPager2.Widget;
 using Plugin.Angpysha.LeftTabbedPage.Android.Controls;
 
 [assembly: ExportRenderer(typeof(LeftTabbedPage),typeof(LeftTabbedPageRenderer))]
@@ -21,6 +23,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
     {
         private bool inited = false;
         private global::Android.Views.View view;
+        private ViewPager2 _viewPager;
 
 
         private RecyclerView _recyclerView;
@@ -42,6 +45,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
 
                 // lefttabbed_recycler
                 _recyclerView = view.FindViewById<RecyclerView>(Resource.Id.lefttabbed_recycler);
+                _viewPager = view.FindViewById<ViewPager2>(Resource.Id.lefttabbed_viewpager);
 
                // var adapter = new RecyclerViewAdapter(me)
                 SetMenuItems();
@@ -60,6 +64,12 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
            // _recyclerView.BackgroundColor = C
            _recyclerView.SetLayoutManager(new LinearLayoutManager(Context));
             _recyclerView.SetAdapter(adapter);
+            if (Context.GetActivity() is FragmentActivity fragmentActivity)
+            {
+                  var viewPagerAdapter = new LeftTabbedViewPagerAdapter(fragmentActivity, Element.Children.ToList());
+                  _viewPager.Adapter = viewPagerAdapter;
+                  
+            }
         }
 
         protected override void OnLayout(bool changed, int l, int t, int r, int b)

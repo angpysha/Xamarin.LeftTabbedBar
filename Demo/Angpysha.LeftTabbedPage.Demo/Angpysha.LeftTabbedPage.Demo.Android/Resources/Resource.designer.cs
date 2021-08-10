@@ -25,6 +25,3684 @@ namespace Angpysha.LeftTabbedPage.Demo.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_fade_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_fade_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_fade_out = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_fade_out;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_grow_fade_in_from_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_popup_enter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_popup_enter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_popup_exit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_popup_exit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_slide_in_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_slide_in_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_slide_in_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_slide_out_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_slide_out_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_slide_out_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_tooltip_enter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.abc_tooltip_exit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.design_bottom_sheet_slide_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.design_bottom_sheet_slide_out = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.design_snackbar_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.design_snackbar_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.design_snackbar_out = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.design_snackbar_out;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.EnterFromLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.EnterFromLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.EnterFromRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.EnterFromRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.ExitToLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.ExitToLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.ExitToRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.ExitToRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_close_enter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_close_enter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_close_exit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_close_exit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_fade_enter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_fade_enter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_fade_exit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_fade_exit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_fast_out_extra_slow_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_open_enter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_open_enter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.fragment_open_exit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.fragment_open_exit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.mtrl_bottom_sheet_slide_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.mtrl_bottom_sheet_slide_out = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animation.mtrl_card_lowers_interpolator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.design_appbar_state_list_animator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.design_fab_hide_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.design_fab_show_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_btn_state_list_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_card_state_list_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_chip_state_list_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_extended_fab_change_size_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_extended_fab_change_size_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_extended_fab_state_list_animator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_fab_hide_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_fab_show_motion_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarItemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarPopupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarSplitStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarTabBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarTabStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarTabTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionBarWidgetTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionDropDownStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionMenuTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionMenuTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeCloseButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeCloseDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeCopyDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeCutDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeFindDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModePasteDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModePopupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeSelectAllDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeShareDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeSplitBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionModeWebSearchDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionOverflowButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionOverflowMenuStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionProviderClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionProviderClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionTextColorAlpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.actionViewClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.actionViewClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.activityChooserViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alertDialogButtonGroupStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alertDialogCenterButtons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alertDialogStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alertDialogStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alertDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alertDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.allowStacking = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.allowStacking;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.alphabeticModifiers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.animationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.animationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.appBarLayoutStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.arrowHeadLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.arrowHeadLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.arrowShaftLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.arrowShaftLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoCompleteTextViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoSizeMaxTextSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoSizeMinTextSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoSizePresetSizes = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoSizeStepGranularity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.autoSizeTextType = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.autoSizeTextType;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundInsetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundInsetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundInsetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundOverlayColorAlpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundSplit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundSplit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundStacked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundStacked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.backgroundTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.backgroundTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.badgeGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.badgeGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.badgeStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.badgeStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.badgeTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.badgeTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.barLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.barLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.barrierAllowsGoneWidgets = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.barrierAllowsGoneWidgets;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.barrierDirection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.barrierDirection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_autoHide = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_autoHide;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_autoShrink = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_autoShrink;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_expandedOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_fitToContents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_halfExpandedRatio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_hideable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_hideable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_overlapTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_peekHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_saveFlags = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_saveFlags;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.behavior_skipCollapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.borderlessButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.borderWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.borderWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.bottomAppBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.bottomNavigationStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.bottomSheetDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.bottomSheetStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxBackgroundMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxCollapsedPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxCornerRadiusBottomEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxCornerRadiusBottomStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxCornerRadiusTopEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxCornerRadiusTopStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.boxStrokeWidthFocused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonBarButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonBarNegativeButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonBarNeutralButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonBarPositiveButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonIconDimen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonIconDimen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonPanelSideLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonStyleSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.buttonTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.buttonTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardElevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardElevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardForegroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardForegroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardMaxElevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardMaxElevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardPreventCornerOverlap = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardUseCompatPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cardViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cardViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chainUseRtl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chainUseRtl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkboxStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkboxStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedChip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedChip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.checkedTextViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipGroupStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipGroupStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipMinHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipMinHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipMinTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipSpacingHorizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipSpacingVertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipStandaloneStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.chipSurfaceColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.chipSurfaceColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.closeItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.closeItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.collapseContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.collapseContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.collapsedTitleGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.collapsedTitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.collapseIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.collapseIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.collectionViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.collectionViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorAccent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorAccent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorBackgroundFloating = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorButtonNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorButtonNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorControlActivated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorControlActivated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorControlHighlight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorControlHighlight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorControlNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorControlNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorError = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorError;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnError = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnError;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnPrimary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnPrimary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnPrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnSecondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnSecondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorOnSurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorOnSurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorPrimary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorPrimary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorPrimaryDark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorPrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorPrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorPrimaryVariant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorSecondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorSecondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorSecondaryVariant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorSurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorSurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.colorSwitchThumbNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.commitIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.commitIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.constraintSet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.constraintSet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.constraint_referenced_ids = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.constraint_referenced_ids;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetEndWithActions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentInsetStartWithNavigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentPaddingBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentPaddingLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentPaddingRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentPaddingRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.contentScrim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.contentScrim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.controlBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.controlBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.coordinatorLayoutStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerFamilyBottomLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerFamilyBottomRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerFamilyTopLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerFamilyTopRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerSizeBottomLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerSizeBottomRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerSizeTopLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.cornerSizeTopRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterMaxLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterMaxLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterOverflowTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterOverflowTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.counterTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.counterTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.customNavigationLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.customNavigationLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dayInvalidStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dayInvalidStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.daySelectedStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.daySelectedStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dayTodayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dayTodayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.defaultQueryHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.defaultQueryHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dialogCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dialogPreferredPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.displayOptions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.displayOptions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dividerHorizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dividerHorizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dividerPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dividerPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dividerVertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dividerVertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableBottomCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableEndCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableEndCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableLeftCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableRightCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableRightCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableStartCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableStartCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawableTopCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawableTopCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.drawerArrowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dropdownListPreferredItemHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.dropDownListViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.editTextBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.editTextBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.editTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.editTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.editTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.editTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.elevationOverlayColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.elevationOverlayColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.elevationOverlayEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.emptyVisibility = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.emptyVisibility;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconCheckable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconCheckable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.endIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.endIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.enforceMaterialTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.enforceTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.ensureMinTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.errorTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.errorTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expanded = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expanded;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.expandedTitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.extendedFloatingActionButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.extendMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.extendMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabAlignmentMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabAnimationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabAnimationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabCradleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabCradleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabCradleRoundedCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabCradleVerticalOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabCustomSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabCustomSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fabSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fabSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fastScrollEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.firstBaselineToTopHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.floatingActionButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.font = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.font;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderAuthority = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderCerts = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderCerts;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderFetchStrategy = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderFetchTimeout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderPackage = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderPackage;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontProviderQuery = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontProviderQuery;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontVariationSettings = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontVariationSettings;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.fontWeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.fontWeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.foregroundInsidePadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.gapBetweenBars = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.gapBetweenBars;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.goIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.goIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.headerLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.headerLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.helperText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.helperText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.helperTextEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.helperTextEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.helperTextTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.helperTextTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.helperTextTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hideMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hideMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hideOnContentScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hideOnScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hideOnScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hintAnimationEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hintEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hintEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hintTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hintTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hintTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hintTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.homeAsUpIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.homeLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.homeLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.hoveredFocusedTranslationZ = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconifiedByDefault = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.iconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.iconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.imageButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.imageButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.indeterminateProgressStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.initialActivityCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.initialActivityCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.insetForeground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.insetForeground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.isLightTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.isLightTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.isMaterialTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.isMaterialTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemHorizontalPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemHorizontalTranslationEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemIconPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemIconPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemMaxLines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemMaxLines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemRippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemRippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeInsetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemShapeInsetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemTextAppearanceActive = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemTextAppearanceInactive = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.itemTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.itemTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.keylines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.keylines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.labelVisibilityMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.lastBaselineToBottomHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layoutManager = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layoutManager;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_anchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_anchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_anchorGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_collapseMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_collapseMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_collapseParallaxMultiplier = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constrainedHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constrainedHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constrainedWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constrainedWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintBaseline_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintBaseline_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintBaseline_toBaselineOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintBaseline_toBaselineOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintBottom_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintBottom_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintBottom_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintBottom_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintBottom_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintBottom_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintCircle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintCircle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintCircleAngle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintCircleAngle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintCircleRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintCircleRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintDimensionRatio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintDimensionRatio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintEnd_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintEnd_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintEnd_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintEnd_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintGuide_begin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintGuide_begin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintGuide_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintGuide_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintGuide_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintGuide_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHeight_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHeight_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHeight_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHeight_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHeight_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHeight_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHeight_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHeight_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHorizontal_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHorizontal_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHorizontal_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHorizontal_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintHorizontal_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintHorizontal_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintLeft_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintLeft_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintLeft_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintLeft_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintLeft_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintLeft_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintRight_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintRight_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintRight_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintRight_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintRight_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintRight_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintStart_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintStart_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintStart_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintStart_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintTop_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintTop_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintTop_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintTop_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintTop_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintTop_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintVertical_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintVertical_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintVertical_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintVertical_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintVertical_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintVertical_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintWidth_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintWidth_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintWidth_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintWidth_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintWidth_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintWidth_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_constraintWidth_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_constraintWidth_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_dodgeInsetEdges = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_editor_absoluteX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_editor_absoluteX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_editor_absoluteY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_editor_absoluteY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_goneMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_goneMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_insetEdge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_insetEdge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_keyline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_keyline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_optimizationLevel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_optimizationLevel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_scrollFlags = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.layout_scrollInterpolator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.liftOnScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.liftOnScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.liftOnScrollTargetViewId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.lineSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.lineSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listChoiceBackgroundIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listDividerAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listMenuViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPopupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemHeightLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemHeightSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemPaddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemPaddingLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemPaddingRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.listPreferredItemPaddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.logo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.logo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.logoDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.logoDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialAlertDialogBodyTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialAlertDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialAlertDialogTitleIconStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialAlertDialogTitleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialButtonOutlinedStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialButtonToggleGroupStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarDay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarDay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarFullscreenTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderConfirmButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderSelection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarHeaderToggleButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCalendarTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCalendarTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialCardViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.materialThemeOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.materialThemeOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.maxActionInlineWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.maxButtonHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.maxButtonHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.maxCharacterCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.maxCharacterCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.maxImageSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.maxImageSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.measureWithLargestChild = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.minTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.minTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.multiChoiceItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.navigationContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.navigationContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.navigationIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.navigationIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.navigationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.navigationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.navigationViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.navigationViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.number = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.number;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.numericModifiers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.numericModifiers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.overlapAnchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.overlapAnchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.paddingBottomNoButtons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.paddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.paddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.paddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.paddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.paddingTopNoTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.panelBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.panelBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.panelMenuListTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.panelMenuListWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.passwordToggleContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.passwordToggleDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.passwordToggleEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.passwordToggleTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.passwordToggleTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.passwordToggleTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.popupMenuBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.popupMenuBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.popupMenuStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.popupMenuStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.popupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.popupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.popupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.popupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.preserveIconSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.pressedTranslationZ = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.progressBarPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.progressBarPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.progressBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.progressBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.queryBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.queryBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.queryHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.queryHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.radioButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.radioButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.rangeFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.rangeFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.ratingBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.ratingBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.ratingBarStyleIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.ratingBarStyleSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.recyclerViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.reverseLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.reverseLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.rippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.rippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.scrimAnimationDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.scrimBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.scrimBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.scrimVisibleHeightTrigger = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.searchHintIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.searchHintIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.searchIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.searchIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.searchViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.searchViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.seekBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.seekBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.selectableItemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.selectableItemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.selectableItemBackgroundBorderless = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shapeAppearanceLargeComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shapeAppearanceMediumComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shapeAppearanceSmallComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.showAsAction = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.showAsAction;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.showDividers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.showDividers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.showMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.showMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.showText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.showText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.showTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.showTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.shrinkMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.singleChoiceItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.singleLine = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.singleLine;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.singleSelection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.singleSelection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.snackbarButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.snackbarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.snackbarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.spanCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.spanCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.spinBars = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.spinBars;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.spinnerDropDownItemStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.spinnerStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.spinnerStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.splitTrack = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.splitTrack;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.srcCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.srcCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.stackFromEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.stackFromEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.startIconCheckable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.startIconCheckable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.startIconContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.startIconContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.startIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.startIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.startIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.startIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.startIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.startIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_above_anchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_above_anchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_collapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_collapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_collapsible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_collapsible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_dragged = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_dragged;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_liftable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_liftable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.state_lifted = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.state_lifted;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.statusBarBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.statusBarBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.statusBarForeground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.statusBarForeground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.statusBarScrim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.statusBarScrim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.strokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.strokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.strokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.strokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.subMenuArrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.subMenuArrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.submitBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.submitBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.subtitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.subtitleTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.subtitleTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.subtitleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.suggestionRowLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.switchMinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.switchMinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.switchPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.switchPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.switchStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.switchStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.switchTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.switchTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabContentStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabContentStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicatorAnimationDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicatorColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicatorFullWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicatorGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabIndicatorHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabInlineLabel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabInlineLabel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabMaxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabMaxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabMinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabMinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabPaddingBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabPaddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabPaddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabPaddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabRippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabRippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabSelectedTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tabUnboundedRipple = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAllCaps = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAllCaps;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceBody1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceBody2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceCaption = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline4 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline5 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceHeadline6 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceLargePopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceLineHeightEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceListItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceListItemSecondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceListItemSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceOverline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearancePopupMenuHeader = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceSearchResultTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceSmallPopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceSubtitle1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textAppearanceSubtitle2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textColorAlertDialogListItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textColorSearchUrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textInputStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textInputStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textLocale = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textLocale;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.textStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.textStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.theme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.theme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.themeLineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.themeLineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.thickness = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.thickness;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.thumbTextPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.thumbTextPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.thumbTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.thumbTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.thumbTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.thumbTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tickMark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tickMark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tickMarkTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tickMarkTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tickMarkTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMargins = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMargins;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.titleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.titleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.toolbarId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.toolbarId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.toolbarNavigationButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.toolbarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.toolbarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tooltipForegroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tooltipFrameBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.tooltipText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.tooltipText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.track = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.track;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.trackTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.trackTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.trackTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.trackTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.ttcIndex = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.ttcIndex;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.useCompatPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.useCompatPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.useMaterialThemeColors = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.viewInflaterClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.viewInflaterClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.voiceIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.voiceIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowActionBarOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowActionModeOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowFixedHeightMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowFixedHeightMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowFixedWidthMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowFixedWidthMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowMinWidthMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowMinWidthMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.windowNoTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.windowNoTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.yearSelectedStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.yearSelectedStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.yearStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.yearStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Attribute.yearTodayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.yearTodayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Boolean.abc_action_bar_embed_tabs = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Boolean.abc_allow_stacked_button_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_background_cache_hint_selector_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_btn_colored_borderless_text_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_btn_colored_text_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_color_highlight_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_color_highlight_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_hint_foreground_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_hint_foreground_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_input_method_navigation_guard = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_primary_text_disable_only_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_primary_text_disable_only_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_primary_text_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_primary_text_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_search_url_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_search_url_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_search_url_text_normal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_search_url_text_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_search_url_text_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_secondary_text_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_secondary_text_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_btn_checkable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_edittext = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_edittext;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_seek_thumb = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.abc_tint_switch_track = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.abc_tint_switch_track;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.accent_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.accent_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.accent_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.accent_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.background_floating_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.background_floating_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.background_floating_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.background_floating_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.background_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.background_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.background_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.background_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_disabled_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_disabled_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_inverse_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_inverse_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.bright_foreground_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.bright_foreground_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.browser_actions_bg_grey = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.browser_actions_divider_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.browser_actions_divider_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.browser_actions_text_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.browser_actions_text_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.browser_actions_title_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.browser_actions_title_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.button_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.button_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.button_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.button_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.cardview_dark_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.cardview_dark_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.cardview_light_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.cardview_light_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.cardview_shadow_end_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.cardview_shadow_start_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.checkbox_themeable_attribute_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_bottom_navigation_shadow_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_box_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_box_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_on_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_on_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_on_primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_on_secondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_on_surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_primary_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_primary_variant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_secondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_secondary_variant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_dark_default_color_surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_dark_default_color_surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_on_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_on_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_on_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_on_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_on_primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_on_primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_on_secondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_on_secondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_on_surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_on_surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_primary_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_primary_variant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_primary_variant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_secondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_secondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_secondary_variant = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_default_color_surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_default_color_surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_shadow_end_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_shadow_mid_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_shadow_start_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_stroke_end_inner_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_stroke_end_outer_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_stroke_top_inner_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_fab_stroke_top_outer_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_icon_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_icon_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.design_snackbar_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.design_snackbar_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.dim_foreground_disabled_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.dim_foreground_disabled_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.dim_foreground_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.dim_foreground_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.dim_foreground_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.error_color_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.error_color_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.error_color_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.error_color_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.foreground_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.foreground_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.foreground_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.foreground_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.highlighted_text_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.highlighted_text_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.highlighted_text_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_blue_grey_800 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_blue_grey_800;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_blue_grey_900 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_blue_grey_900;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_blue_grey_950 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_blue_grey_950;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_deep_teal_200 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_deep_teal_200;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_deep_teal_500 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_deep_teal_500;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_100 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_100;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_300 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_300;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_50 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_50;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_600 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_600;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_800 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_800;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_850 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_850;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_grey_900 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_grey_900;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_background_disabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_background_disabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_background_emphasis_high_type = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_background_emphasis_medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_primary_disabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_primary_disabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_primary_emphasis_high_type = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_primary_emphasis_medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_surface_disabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_surface_disabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_surface_emphasis_high_type = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.material_on_surface_emphasis_medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_bottom_nav_colored_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_bottom_nav_colored_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_bottom_nav_item_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_bottom_nav_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_bottom_nav_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_bg_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_stroke_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_text_color_disabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_text_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_btn_transparent_bg_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_calendar_item_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_calendar_selected_range = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_card_view_foreground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_card_view_ripple = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_chip_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_chip_close_icon_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_chip_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_chip_surface_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_chip_text_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_choice_chip_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_choice_chip_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_choice_chip_text_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_extended_fab_bg_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_extended_fab_bg_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_extended_fab_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_extended_fab_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_extended_fab_text_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_extended_fab_text_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_fab_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_filled_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_filled_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_filled_icon_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_filled_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_indicator_text_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_navigation_item_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_navigation_item_icon_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_navigation_item_text_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_outlined_icon_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_outlined_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_popupmenu_overlay_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_scrim_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_scrim_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_tabs_colored_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_tabs_icon_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_tabs_ripple_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_textinput_disabled_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.mtrl_text_btn_text_color_selector = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.notification_action_color_filter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.notification_icon_bg_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.notification_material_background_media_default_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_dark_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_dark_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_dark_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_dark_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_text_default_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_text_default_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_text_default_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_text_disabled_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.primary_text_disabled_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.ripple_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.ripple_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.ripple_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.secondary_text_default_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.secondary_text_default_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.secondary_text_disabled_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.secondary_text_disabled_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_disabled_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_disabled_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_normal_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.switch_thumb_normal_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.test_mtrl_calendar_day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.test_mtrl_calendar_day_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.tooltip_background_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.tooltip_background_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Color.tooltip_background_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Color.tooltip_background_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_content_inset_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_default_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_elevation_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_stacked_max_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_button_min_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_button_min_width_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_alert_dialog_button_dimen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_button_inset_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_button_inset_vertical_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_button_padding_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_button_padding_vertical_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_config_prefDialogWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_control_corner_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_control_inset_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_control_padding_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_corner_radius_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_fixed_height_major = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_fixed_height_minor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_fixed_width_major = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_fixed_width_minor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_min_width_major = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_min_width_minor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_padding_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_padding_top_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dialog_title_divider_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_disabled_alpha_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_disabled_alpha_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dropdownitem_icon_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_edit_text_inset_top_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_floating_window_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_list_item_height_large_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_list_item_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_list_item_height_small_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_panel_menu_list_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_progress_bar_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_search_view_preferred_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_search_view_preferred_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_seekbar_track_background_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_select_dialog_padding_start_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_switch_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_switch_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_body_1_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_body_2_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_button_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_caption_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_display_1_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_display_2_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_display_3_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_display_4_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_headline_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_large_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_medium_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_menu_header_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_menu_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_small_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_subhead_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_title_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.abc_text_size_title_material_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.action_bar_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.action_bar_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.appcompat_dialog_background_inset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.browser_actions_context_menu_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.browser_actions_context_menu_min_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.cardview_compat_inset_shadow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.cardview_default_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.cardview_default_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.cardview_default_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_button_inset_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_button_inset_vertical_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_button_padding_horizontal_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_button_padding_vertical_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_control_corner_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_notification_large_icon_max_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.compat_notification_large_icon_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.default_dimension = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.default_dimension;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_appbar_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_active_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_item_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_item_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_shadow_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_navigation_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_sheet_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_border_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_border_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_image_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_image_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_size_mini = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_size_normal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_fab_translation_z_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_icon_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_item_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_item_icon_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_padding_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_navigation_separator_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_action_inline_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_action_text_color_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_background_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_padding_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_padding_vertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_snackbar_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_tab_max_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_tab_max_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_tab_scrollable_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_tab_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_tab_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_tab_text_size_2line = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.design_textinput_caption_translate_y = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.disabled_alpha_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.disabled_alpha_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.fastscroll_default_thickness = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.fastscroll_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.fastscroll_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.fastscroll_minimum_range = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.highlight_alpha_material_colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.highlight_alpha_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.highlight_alpha_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.hint_alpha_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.hint_alpha_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.hint_pressed_alpha_material_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.hint_pressed_alpha_material_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.material_emphasis_disabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.material_emphasis_high_type = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.material_emphasis_medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.material_emphasis_medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.material_text_view_test_line_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.material_text_view_test_line_height_override = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_badge_with_text_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_bottomappbar_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_disabled_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_disabled_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_focused_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_hovered_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_icon_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_inset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_letter_spacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_padding_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_padding_left = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_padding_right = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_padding_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_pressed_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_stroke_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_btn_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_action_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_action_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_bottom_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_content_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_days_of_week_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_corner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_today_stroke = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_day_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_content_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_text_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_landscape_header_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_navigation_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_year_corner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_year_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_calendar_year_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_checked_icon_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_checked_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_dragged_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_card_spacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_chip_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_end_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_min_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_min_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_start_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_top_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_fab_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_fab_min_touch_target = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_high_ripple_default_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_large_touch_target = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_low_ripple_default_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_min_touch_target_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_item_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_shape_corner_size_large_component = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_shape_corner_size_small_component = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_snackbar_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_switch_thumb_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.mtrl_toolbar_default_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_action_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_action_text_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_big_circle_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_content_margin_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_large_icon_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_large_icon_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_main_column_padding_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_media_narrow_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_right_icon_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_right_side_padding_top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_small_icon_background_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_small_icon_size_as_large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_subtext_size = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_top_pad = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.notification_top_pad_large_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.subtitle_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.subtitle_outline_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.subtitle_outline_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.subtitle_shadow_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.subtitle_shadow_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_corner_radius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_horizontal_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_margin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_margin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_precise_anchor_threshold = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_vertical_padding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_y_offset_non_touch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Dimension.tooltip_y_offset_touch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_action_bar_item_background_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_borderless_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_check_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_check_material_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_colored_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_default_mtrl_shape = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_radio_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_radio_material_anim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_cab_background_internal_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_cab_background_top_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_control_background_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_control_background_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_dialog_material_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_edit_text_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_ab_back_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_clear_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_go_search_api_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_overflow_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_search_api_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_black_16dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_black_36dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_black_48dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_half_black_16dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_half_black_36dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_star_half_black_48dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ic_voice_search_api_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_item_background_holo_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_item_background_holo_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_divider_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_focused_holo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_longpressed_holo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_pressed_holo_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_pressed_holo_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_holo_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_list_selector_holo_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_popup_background_mtrl_mult = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ratingbar_indicator_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ratingbar_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_ratingbar_small_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_seekbar_thumb_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_seekbar_tick_mark_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_seekbar_track_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_spinner_textfield_background_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_switch_thumb_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_tab_indicator_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_textfield_search_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_cursor_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.abc_vector_test = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.abc_vector_test;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.avd_hide_password = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.avd_hide_password;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.avd_show_password = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.avd_show_password;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_checkbox_checked_mtrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_radio_off_mtrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_radio_on_mtrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_bottom_navigation_item_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_fab_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_fab_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_ic_visibility = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_ic_visibility;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_ic_visibility_off = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_password_eye = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_password_eye;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.design_snackbar_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.design_snackbar_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_calendar_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_calendar_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_clear_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_clear_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_edit_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_edit_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_keyboard_arrow_left_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_keyboard_arrow_left_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_keyboard_arrow_right_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_keyboard_arrow_right_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_menu_arrow_down_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_menu_arrow_down_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_menu_arrow_up_black_24dp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_menu_arrow_up_black_24dp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_mtrl_checked_circle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_mtrl_chip_checked_black = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.ic_mtrl_chip_close_circle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_dialog_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_dropdown_arrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_ic_arrow_drop_down = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_ic_arrow_drop_up = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_ic_cancel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_ic_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_ic_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_popupmenu_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_popupmenu_background_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.mtrl_tabs_default_indicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.navigation_empty_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_action_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg_low = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg_low_normal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg_low_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg_normal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_bg_normal_pressed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_icon_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_template_icon_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_template_icon_low_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notification_tile_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.notify_panel_notification_icon_bg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.test_custom_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.test_custom_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.tooltip_frame_dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Drawable.tooltip_frame_light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_action_clickable_span = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_10 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_11 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_12 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_13 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_14 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_15 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_16 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_17 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_18 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_19 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_20 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_21 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_22 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_23 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_24 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_25 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_26 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_27 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_28 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_29 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_30 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_31 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_4 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_5 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_6 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_7 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_8 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.accessibility_custom_action_9 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_activity_content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_activity_content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_root = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_root;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_bar_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_bar_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_context_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_context_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_image = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_image;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_menu_divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_menu_divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_menu_presenter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_menu_presenter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_mode_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_mode_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_mode_bar_stub = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_mode_bar_stub;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_mode_close_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_mode_close_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.action_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.action_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.activity_chooser_view_content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.activity_chooser_view_content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.add = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.add;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.alertTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.alertTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.all = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.all;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.ALT = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.ALT;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.always = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.always;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.async = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.async;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.auto = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.auto;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.barrier = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.barrier;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.beginning = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.beginning;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.blocking = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.blocking;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.bottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.bottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.bottomtab_navarea = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.bottomtab_navarea;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.bottomtab_tabbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.bottomtab_tabbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.BOTTOM_END = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.BOTTOM_END;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.BOTTOM_START = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.BOTTOM_START;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.browser_actions_header_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.browser_actions_header_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.browser_actions_menu_items = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.browser_actions_menu_items;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.browser_actions_menu_item_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.browser_actions_menu_item_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.browser_actions_menu_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.browser_actions_menu_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.buttonPanel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.buttonPanel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.cancel_action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.cancel_action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.cancel_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.cancel_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.cardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.cardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.center = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.center;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.center_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.center_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.center_vertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.center_vertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.chains = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.chains;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.checkbox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.checkbox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.@checked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.@checked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.chip_group = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.chip_group;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.chronometer = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.chronometer;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.clear_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.clear_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.clip_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.clip_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.clip_vertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.clip_vertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.collapseActionView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.collapseActionView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.confirm_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.confirm_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.contentPanel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.contentPanel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.coordinator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.coordinator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.coordinatorLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.coordinatorLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.CTRL = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.CTRL;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.custom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.custom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.customPanel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.customPanel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.cut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.cut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.date_picker_actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.date_picker_actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.decor_content_parent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.decor_content_parent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.default_activity_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.default_activity_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.design_bottom_sheet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.design_bottom_sheet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.design_menu_item_action_area = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.design_menu_item_action_area;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.design_menu_item_action_area_stub = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.design_menu_item_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.design_menu_item_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.design_navigation_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.design_navigation_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.dialog_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.dialog_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.dimensions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.dimensions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.direct = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.direct;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.disableHome = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.disableHome;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.dropdown_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.dropdown_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.edit_query = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.edit_query;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.end_padder = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.end_padder;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.enterAlways = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.enterAlways;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.enterAlwaysCollapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.exitUntilCollapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.exitUntilCollapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.expanded_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.expanded_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.expand_activities_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.expand_activities_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fade = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fade;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fill = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fill;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.filled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.filled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fill_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fill_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fill_vertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fill_vertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.filter_chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.filter_chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fitToContents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fitToContents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.@fixed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.@fixed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.flyoutcontent_appbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.flyoutcontent_recycler = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.flyoutcontent_recycler;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.forever = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.forever;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.fragment_container_view_tag = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.fragment_container_view_tag;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.FUNCTION = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.FUNCTION;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.ghost_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.ghost_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.ghost_view_holder = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.ghost_view_holder;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.gone = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.gone;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.groups = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.groups;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.group_divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.group_divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.hideable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.hideable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.home = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.home;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.homeAsUp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.homeAsUp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.icon_group = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.icon_group;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.ifRoom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.ifRoom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.image = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.image;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.info = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.info;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.invisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.invisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.italic = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.italic;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.item_touch_helper_previous_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.labeled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.labeled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.largeLabel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.largeLabel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.left = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.left;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.lefttabbed_page_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.lefttabbed_page_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.lefttabbed_recycler = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.lefttabbed_recycler;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.lefttabbed_viewpager = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.lefttabbed_viewpager;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.line1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.line1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.line3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.line3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.listMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.listMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.list_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.list_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.main_appbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.main_appbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.main_tablayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.main_tablayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.main_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.main_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.main_viewpager = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.main_viewpager;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.masked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.masked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.media_actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.media_actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.message = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.message;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.META = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.META;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.middle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.middle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mini = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mini;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_grid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_grid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_navigation_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_navigation_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_navigation_fragment_toggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_navigation_next = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_navigation_next;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_navigation_previous = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_navigation_previous;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.month_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.month_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_days_of_week = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_day_selector_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_main_pane = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_months = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_months;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_selection_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_text_input_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_calendar_year_selector_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_card_checked_layer_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_child_content_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_child_content_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_internal_children_alpha_tag = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_header = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_header;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_header_selection_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_header_title_and_selection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_header_toggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_text_input_date = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_text_input_range_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_text_input_range_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.mtrl_picker_title_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.mtrl_picker_title_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.multiply = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.multiply;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.navigation_header_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.navigation_header_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.never = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.never;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.none = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.none;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.normal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.normal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.noScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.noScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.notification_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.notification_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.notification_main_column = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.notification_main_column;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.notification_main_column_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.off = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.off;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.on = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.on;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.outline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.outline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.packed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.packed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.parallax = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.parallax;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.parent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.parent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.parentPanel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.parentPanel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.parent_matrix = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.parent_matrix;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.password_toggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.password_toggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.peekHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.peekHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.pin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.pin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.progress_circular = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.progress_circular;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.progress_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.progress_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.radio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.radio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.right = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.right;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.right_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.right_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.right_side = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.right_side;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.rounded = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.rounded;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.save_non_transition_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.save_non_transition_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.save_overlay_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.save_overlay_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scale = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scale;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.screen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.screen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scrollable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scrollable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scrollIndicatorDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scrollIndicatorDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scrollIndicatorUp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scrollIndicatorUp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.scrollView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.scrollView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_close_btn = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_close_btn;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_edit_frame = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_edit_frame;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_go_btn = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_go_btn;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_mag_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_mag_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_plate = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_plate;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_src_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_src_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.search_voice_btn = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.search_voice_btn;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.select_dialog_listview = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.select_dialog_listview;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.shellcontent_appbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.shellcontent_appbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.shellcontent_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.shellcontent_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.SHIFT = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.SHIFT;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.shortcut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.shortcut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.showCustom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.showCustom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.showHome = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.showHome;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.showTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.showTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.skipCollapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.skipCollapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.slide = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.slide;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.sliding_tabs = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.sliding_tabs;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.smallLabel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.smallLabel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.snackbar_action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.snackbar_action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.snackbar_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.snackbar_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.snap = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.snap;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.snapMargins = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.snapMargins;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.spacer = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.spacer;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.split_action_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.split_action_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.spread = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.spread;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.spread_inside = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.spread_inside;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.src_atop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.src_atop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.src_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.src_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.src_over = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.src_over;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.standard = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.standard;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.status_bar_latest_event_content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.stretch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.stretch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.submenuarrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.submenuarrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.submit_area = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.submit_area;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.SYM = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.SYM;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tabMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tabMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_accessibility_actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_accessibility_actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_accessibility_clickable_spans = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_accessibility_heading = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_accessibility_heading;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_accessibility_pane_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_screen_reader_focusable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_transition_group = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_transition_group;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_unhandled_key_event_manager = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.tag_unhandled_key_listeners = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.test_checkbox_android_button_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.test_checkbox_app_button_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.text2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.text2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textinput_counter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textinput_counter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textinput_error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textinput_error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textinput_helper_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textinput_helper_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textSpacerNoButtons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textSpacerNoButtons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textSpacerNoTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textSpacerNoTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.textStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.textStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.text_input_end_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.text_input_end_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.text_input_start_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.text_input_start_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.time = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.time;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.titleDividerNoCustom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.titleDividerNoCustom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.title_template = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.title_template;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.top = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.top;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.topPanel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.topPanel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.TOP_END = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.TOP_END;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.TOP_START = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.TOP_START;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.touch_outside = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.touch_outside;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.transition_current_scene = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.transition_current_scene;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.transition_layout_save = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.transition_layout_save;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.transition_position = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.transition_position;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.transition_scene_layoutid_cache = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.transition_transform = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.transition_transform;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.@unchecked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.@unchecked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.uniform = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.uniform;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.unlabeled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.unlabeled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.up = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.up;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.useLogo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.useLogo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.view_offset_helper = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.view_offset_helper;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.visible_removing_fragment_view_tag = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.withText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.withText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.wrap = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.wrap;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Id.wrap_content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Id.wrap_content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.abc_config_activityDefaultDur = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.abc_config_activityShortDur = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.app_bar_elevation_anim_duration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.bottom_sheet_slide_duration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.cancel_button_image_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.config_tooltipAnimTime = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.design_snackbar_text_max_lines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.hide_password_duration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.hide_password_duration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_badge_max_character_count = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_btn_anim_delay_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_btn_anim_duration_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_calendar_header_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_calendar_selection_text_lines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_calendar_year_selector_span = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_card_anim_delay_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_card_anim_duration_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_chip_anim_duration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.show_password_duration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.show_password_duration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Integer.status_bar_notification_info_maxnum = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.fast_out_slow_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.mtrl_fast_out_linear_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.mtrl_fast_out_slow_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.mtrl_linear = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.mtrl_linear;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Interpolator.mtrl_linear_out_slow_in = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_bar_title_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_bar_up_container = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_menu_item_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_menu_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_mode_bar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_action_mode_close_item_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_activity_chooser_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_activity_chooser_view_list_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_alert_dialog_button_bar_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_alert_dialog_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_alert_dialog_title_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_cascading_menu_item_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_dialog_title_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_expanded_menu_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_list_menu_item_checkbox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_list_menu_item_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_list_menu_item_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_list_menu_item_radio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_popup_menu_header_item_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_popup_menu_item_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_screen_content_include = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_screen_content_include;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_screen_simple = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_screen_simple;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_screen_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_search_view = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_search_view;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_select_dialog_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.abc_tooltip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.abc_tooltip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.activity_main_android = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.activity_main_android;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.BottomTabLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.BottomTabLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.browser_actions_context_menu_page = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.browser_actions_context_menu_row = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.custom_dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.custom_dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_bottom_navigation_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_bottom_sheet_dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_layout_snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_layout_snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_layout_snackbar_include = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_layout_tab_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_layout_tab_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_layout_tab_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_menu_item_action_area = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_item_header = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_item_header;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_item_separator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_item_subheader = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_navigation_menu_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_text_input_end_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_text_input_end_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.design_text_input_start_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.design_text_input_start_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.FallbackTabbarDoNotUse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.FallbackToolbarDoNotUse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.FlyoutContent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.FlyoutContent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.left_tabbed_fragment = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.left_tabbed_fragment;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_dialog_actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_dialog_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_select_dialog_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_days_of_week = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_day_of_week = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_month = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_month;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_months = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_months;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_month_labeled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_month_navigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_vertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_calendar_year = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_calendar_year;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_layout_snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_layout_snackbar_include = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_actions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_actions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_header_dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_header_fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_header_selection_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_header_title_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_header_toggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_text_input_date = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.mtrl_picker_text_input_date_range = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_action_tombstone = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_media_action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_media_action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_media_cancel_action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_big_media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_big_media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_big_media_custom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_big_media_narrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_big_media_narrow_custom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_custom_big = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_icon_group = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_lines_media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_lines_media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_media_custom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_media_custom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_part_chronometer = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.notification_template_part_time = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.RootLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.RootLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.select_dialog_item_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.select_dialog_item_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.select_dialog_multichoice_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.select_dialog_singlechoice_material = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.ShellContent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.ShellContent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.support_simple_spinner_dropdown_item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.Tabbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.Tabbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_action_chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_action_chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_design_checkbox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_design_checkbox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_reflow_chipgroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_toolbar_custom_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_toolbar_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_toolbar_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.test_toolbar_surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.test_toolbar_surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.text_view_without_line_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.text_view_without_line_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.text_view_with_line_height_from_appearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.text_view_with_line_height_from_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.text_view_with_line_height_from_style = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.text_view_with_theme_line_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Layout.Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Layout.Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Plurals.mtrl_badge_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_action_bar_home_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_action_bar_home_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_action_bar_up_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_action_bar_up_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_action_menu_overflow_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_action_mode_done = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_action_mode_done;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_activitychooserview_choose_application = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_activity_chooser_view_see_all = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_capital_off = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_capital_off;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_capital_on = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_capital_on;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_alt_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_ctrl_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_delete_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_enter_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_function_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_meta_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_shift_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_space_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_menu_sym_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_prepend_shortcut_label = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_searchview_description_clear = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_searchview_description_clear;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_searchview_description_query = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_searchview_description_query;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_searchview_description_search = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_searchview_description_search;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_searchview_description_submit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_searchview_description_submit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_searchview_description_voice = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_searchview_description_voice;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_search_hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_search_hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_shareactionprovider_share_with = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_shareactionprovider_share_with_application = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.abc_toolbar_collapse_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.appbar_scrolling_view_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.bottom_sheet_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.bottom_sheet_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.character_counter_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.character_counter_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.character_counter_overflowed_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.character_counter_pattern = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.character_counter_pattern;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.chip_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.chip_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.clear_text_end_icon_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.copy_toast_msg = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.copy_toast_msg;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.error_icon_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.error_icon_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.exposed_dropdown_menu_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.fab_transformation_scrim_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.fab_transformation_sheet_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.fallback_menu_item_copy_link = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.fallback_menu_item_open_in_browser = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.fallback_menu_item_share_link = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.fallback_menu_item_share_link;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.hide_bottom_view_on_scroll_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.icon_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.icon_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_badge_numberless_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_chip_close_icon_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_exceed_max_badge_number_suffix = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_a11y_next_month = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_a11y_prev_month = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_announce_current_selection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_cancel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_cancel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_confirm = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_confirm;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_date_header_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_date_header_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_date_header_unselected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_day_of_week_column_header = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_invalid_format = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_invalid_format_example = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_invalid_format_use = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_invalid_range = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_navigate_to_year_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_out_of_range = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_range_header_only_end_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_range_header_only_start_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_range_header_selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_range_header_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_range_header_unselected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_save = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_save;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_date_hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_day_abbr = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_month_abbr = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_text_input_year_abbr = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_toggle_to_day_selection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.mtrl_picker_toggle_to_year_selection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.password_toggle_content_description = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.password_toggle_content_description;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.path_password_eye = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.path_password_eye;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.path_password_eye_mask_strike_through = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.path_password_eye_mask_visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.path_password_strike_through = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.path_password_strike_through;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.search_menu_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.search_menu_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.String.status_bar_notification_info_overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.AlertDialog_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.AlertDialog_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Animation_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Animation_AppCompat_DropDownUp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Animation_AppCompat_Tooltip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Animation_Design_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.AppCompatDialogStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.AppCompatDialogStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_AlertDialog_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Animation_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_CardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_CardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V21_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V22_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V23_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V26_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V28_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_EditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ListView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_SearchView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_TextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_Design_TabLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Base_Widget_MaterialComponents_TextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.CardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.CardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.CardView_Dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.CardView_Dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.CardView_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.CardView_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.collectionViewScrollBars = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.collectionViewScrollBars;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.collectionViewTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.collectionViewTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.EmptyTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.EmptyTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MainTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MainTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MainTheme_Base = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MainTheme_Base;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_MaterialComponents_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_V21_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_V21_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_V25_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_V25_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_Cut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearance_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestStyleWithLineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestStyleWithLineHeightAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestStyleWithoutLineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestThemeWithLineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TestThemeWithLineHeightDisabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Body1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Body2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Caption = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Display1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Display2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Display3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Display4 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Headline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Medium = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Subhead = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Info = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Time = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Counter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Error = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_HelperText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Design_Tab = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Light_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_CompactMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_AppCompat_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design_Light_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_Design_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActionMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ButtonBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button_Borderless = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Button_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_EditText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ImageButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_SearchView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ListMenuView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ListView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ListView_Menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_PopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ProgressBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_RatingBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_SearchView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_SeekBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_TextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Compat_NotificationActionContainer = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Compat_NotificationActionText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_AppBarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_BottomNavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_BottomSheet_Modal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_CollapsingToolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_FloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_NavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_Snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_TabLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Design_TextInputLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomSheet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_CardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_NavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_PopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TabLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_TextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Style.Widget_Support_CoordinatorLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_backgroundSplit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_backgroundStacked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_customNavigationLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_displayOptions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_hideOnContentScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_homeLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_itemPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_logo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_logo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_navigationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_popupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_progressBarPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_progressBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_subtitleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionBar_titleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMenuItemView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMenuView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMenuView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_backgroundSplit = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_closeItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_subtitleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActionMode_titleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActivityChooserView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActivityChooserView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_android_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_buttonIconDimen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_listItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_listLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_showTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableTransition = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayoutStates = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_android_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_expanded = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_liftOnScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppBarLayout_statusBarForeground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatImageView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatImageView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatImageView_android_src = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatImageView_srcCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatImageView_tint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatImageView_tintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatSeekBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatSeekBar_tickMark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_fontFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_textAllCaps = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTextView_textLocale = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorAccent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorError = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorPrimary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_controlBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dividerVertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_editTextBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_editTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_editTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_panelBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_switchStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowActionBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge_backgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge_badgeGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge_badgeTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge_maxCharacterCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Badge_number = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Badge_number;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_fabAnimationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomAppBar_hideOnScroll = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemRippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemRippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_itemTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomNavigationView_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ButtonBarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ButtonBarLayout_allowStacking = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_android_minHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_android_minWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardElevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardMaxElevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_cardUseCompatPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_contentPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_contentPaddingBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_contentPaddingLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_contentPaddingRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CardView_contentPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_checkedChip = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_chipSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_singleLine = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ChipGroup_singleSelection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_checkable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_ellipsize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_textAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_android_textColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_android_textColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_checkedIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_checkedIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_checkedIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipCornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipMinHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipMinTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_chipSurfaceColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_closeIconVisible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_hideMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_iconEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_iconStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_rippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_showMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_textEndPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Chip_textStartPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ColorStateListItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ColorStateListItem_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ColorStateListItem_android_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ColorStateListItem_android_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CompoundButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CompoundButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CompoundButton_android_button = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CompoundButton_buttonCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CompoundButton_buttonTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CompoundButton_buttonTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_android_minHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_android_minWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_barrierDirection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierDirection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_constraintSet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_constraintSet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_placeholder = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_placeholder;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_placeholder_content = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_placeholder_content;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintLayout_placeholder_emptyVisibility = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintLayout_placeholder_emptyVisibility;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_alpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_marginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_marginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_layout_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_layout_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_maxHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_maxHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_minHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_minHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_minWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_minWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_rotation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_rotation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_rotationX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_rotationX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_rotationY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_rotationY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_scaleX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_scaleX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_scaleY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_scaleY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_transformPivotX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_transformPivotX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_transformPivotY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_transformPivotY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_translationX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_translationX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_translationY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_translationY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_translationZ = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_translationZ;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_android_visibility = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_android_visibility;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_barrierDirection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_chainUseRtl = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constrainedHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constrainedHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constrainedWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constrainedWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintCircle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintGuide_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHeight_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHeight_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHeight_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintRight_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintTop_creator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_creator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintWidth_default = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_default;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintWidth_max = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_max;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintWidth_min = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_min;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_editor_absoluteX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_editor_absoluteY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ConstraintSet_layout_goneMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_keylines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_barLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_spinBars = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.DrawerArrowToggle_thickness = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_borderWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_fabSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_maxImageSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_rippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FlowLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FlowLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FlowLayout_itemSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FlowLayout_lineSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_android_font = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_font = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_fontStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_fontWeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamilyFont_ttcIndex = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderAuthority = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderCerts = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderPackage = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FontFamily_fontProviderQuery = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ForegroundLinearLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Fragment = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Fragment;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FragmentContainerView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FragmentContainerView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FragmentContainerView_android_name = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.FragmentContainerView_android_tag = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Fragment_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Fragment_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Fragment_android_name = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Fragment_android_name;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Fragment_android_tag = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Fragment_android_tag;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColorItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColorItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColorItem_android_color = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColorItem_android_offset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_centerColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_centerX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_centerY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_endColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_endX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_endY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_gradientRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_startColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_startX = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_startY = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_tileMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.GradientColor_android_type = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ItemsViewRendererTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearConstraintLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearConstraintLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearConstraintLayout_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearConstraintLayout_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_divider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.LinearLayoutCompat_showDividers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ListPopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ListPopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialog = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButtonToggleGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_android_checkable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_android_insetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_android_insetLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_android_insetRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_android_insetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_backgroundTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_cornerRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_iconGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_iconPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_iconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_iconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_iconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_rippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_strokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialButton_strokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_dayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_rangeFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_yearStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_android_checkable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_cardForegroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_checkedIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_checkedIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_rippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_state_dragged = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_strokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCardView_strokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCheckBox = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCheckBox;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCheckBox_buttonTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialRadioButton = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialRadioButton;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialShape = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialShape;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialShape_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextAppearance_lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextView_android_lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextView_android_textAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MaterialTextView_lineHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_enabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_menuCategory = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_orderInCategory = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuGroup_android_visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_actionLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_actionProviderClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_actionViewClass = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_alphabeticModifiers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_checkable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_checked = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_enabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_menuCategory = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_numericShortcut = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_onClick = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_orderInCategory = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_titleCondensed = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_android_visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_contentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_iconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_iconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_numericModifiers = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_showAsAction = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuItem_tooltipText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_headerBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_horizontalDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_itemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_itemTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_verticalDivider = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_preserveIconSpacing = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.MenuView_subMenuArrow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_android_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_headerLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemIconPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemIconSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemMaxLines = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeFillColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemShapeInsetTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_itemTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.NavigationView_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.NavigationView_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindow = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindow;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindowBackgroundState = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindow_android_popupBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.PopupWindow_overlapAnchor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecycleListView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecycleListView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_android_clipToPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_layoutManager = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_reverseLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_spanCount = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.RecyclerView_stackFromEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ScrimInsetsFrameLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ScrollingViewBehavior_Layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_android_focusable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_android_imeOptions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_android_inputType = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_closeIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_commitIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_defaultQueryHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_goIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_iconifiedByDefault = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_queryBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_queryHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_searchHintIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_searchIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_submitBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_suggestionRowLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SearchView_voiceIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Snackbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Snackbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_animationMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_elevation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Snackbar_snackbarStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner_android_dropDownWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner_android_entries = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner_android_popupBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner_android_prompt = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Spinner_popupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawableItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawableItem_android_drawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_constantSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_dither = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_variablePadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.StateListDrawable_android_visible = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_android_textOff = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_android_textOn = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_android_thumb = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_showText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_splitTrack = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_switchMinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_switchPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_thumbTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_thumbTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_track = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_trackTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchCompat_trackTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchMaterial = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchMaterial;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabItem = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabItem;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabItem_android_icon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabItem_android_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabItem_android_text = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabItem_android_text;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabBackground = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabContentStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicator = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicatorColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabInlineLabel = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabMaxWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabMinWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabPadding = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabPaddingBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabPaddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabPaddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabRippleColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_fontFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_shadowColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_shadowDx = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_shadowDy = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_shadowRadius = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textColorHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textColorLink = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textFontWeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textSize = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_textStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_android_typeface = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_fontFamily = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_fontVariationSettings = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_textAllCaps = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextAppearance_textLocale = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_android_hint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_android_textColorHint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterMaxLength = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_counterTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconCheckable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_endIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_errorTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_helperText = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_helperTextTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_hintEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_hintTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_shapeAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_startIconCheckable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_startIconContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_startIconDrawable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_startIconTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.TextInputLayout_startIconTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ThemeEnforcement = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_android_gravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_android_minHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_buttonGravity = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_collapseContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_collapseIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetLeft = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetRight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_logo = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_logo;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_logoDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_maxButtonHeight = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_menu = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_menu;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_navigationContentDescription = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_navigationIcon = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_popupTheme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_subtitle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_subtitleTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_title = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_title;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMargin = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMarginBottom = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMarginEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMargins = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMarginStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleMarginTop = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleTextAppearance = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.Toolbar_titleTextColor = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewBackgroundHelper = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewBackgroundHelper_android_background = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewPager2 = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewPager2;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewPager2_android_orientation = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewStubCompat = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewStubCompat;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewStubCompat_android_id = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.ViewStubCompat_android_layout = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View_android_focusable = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View_android_focusable;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View_android_theme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View_android_theme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View_paddingEnd = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View_paddingEnd;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View_paddingStart = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View_paddingStart;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Styleable.View_theme = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Styleable.View_theme;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.image_share_filepaths = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.image_share_filepaths;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.standalone_badge = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.standalone_badge;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.standalone_badge_gravity_bottom_end = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.standalone_badge_gravity_bottom_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.standalone_badge_gravity_top_start = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::Plugin.Angpysha.LeftTabbedPage.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Angpysha.LeftTabbedPage.Demo.Droid.Resource.Attribute.font;
@@ -10286,448 +13964,454 @@ namespace Angpysha.LeftTabbedPage.Demo.Droid
 			public const int left = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int lefttabbed_recycler = 2131230878;
+			public const int lefttabbed_page_container = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int line1 = 2131230879;
+			public const int lefttabbed_recycler = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int line3 = 2131230880;
+			public const int lefttabbed_viewpager = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int listMode = 2131230881;
+			public const int line1 = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int list_item = 2131230882;
+			public const int line3 = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int main_appbar = 2131230883;
+			public const int listMode = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int main_tablayout = 2131230884;
+			public const int list_item = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int main_toolbar = 2131230885;
+			public const int main_appbar = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int main_viewpager = 2131230886;
+			public const int main_tablayout = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int masked = 2131230887;
+			public const int main_toolbar = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int media_actions = 2131230888;
+			public const int main_viewpager = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int message = 2131230889;
+			public const int masked = 2131230889;
+			
+			// aapt resource value: 0x7F0800AA
+			public const int media_actions = 2131230890;
+			
+			// aapt resource value: 0x7F0800AB
+			public const int message = 2131230891;
 			
 			// aapt resource value: 0x7F080005
 			public const int META = 2131230725;
 			
-			// aapt resource value: 0x7F0800AA
-			public const int middle = 2131230890;
-			
-			// aapt resource value: 0x7F0800AB
-			public const int mini = 2131230891;
-			
 			// aapt resource value: 0x7F0800AC
-			public const int month_grid = 2131230892;
+			public const int middle = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int month_navigation_bar = 2131230893;
+			public const int mini = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int month_navigation_fragment_toggle = 2131230894;
+			public const int month_grid = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int month_navigation_next = 2131230895;
+			public const int month_navigation_bar = 2131230895;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int month_navigation_previous = 2131230896;
+			public const int month_navigation_fragment_toggle = 2131230896;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int month_title = 2131230897;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int mtrl_calendar_days_of_week = 2131230899;
+			public const int month_navigation_next = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int mtrl_calendar_day_selector_frame = 2131230898;
+			public const int month_navigation_previous = 2131230898;
 			
-			// aapt resource value: 0x7F0800B4
-			public const int mtrl_calendar_frame = 2131230900;
+			// aapt resource value: 0x7F0800B3
+			public const int month_title = 2131230899;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int mtrl_calendar_main_pane = 2131230901;
+			public const int mtrl_calendar_days_of_week = 2131230901;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int mtrl_calendar_day_selector_frame = 2131230900;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int mtrl_calendar_months = 2131230902;
+			public const int mtrl_calendar_frame = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int mtrl_calendar_selection_frame = 2131230903;
+			public const int mtrl_calendar_main_pane = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int mtrl_calendar_text_input_frame = 2131230904;
+			public const int mtrl_calendar_months = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int mtrl_calendar_year_selector_frame = 2131230905;
+			public const int mtrl_calendar_selection_frame = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int mtrl_card_checked_layer_id = 2131230906;
+			public const int mtrl_calendar_text_input_frame = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int mtrl_child_content_container = 2131230907;
+			public const int mtrl_calendar_year_selector_frame = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int mtrl_internal_children_alpha_tag = 2131230908;
+			public const int mtrl_card_checked_layer_id = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int mtrl_picker_fullscreen = 2131230909;
+			public const int mtrl_child_content_container = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int mtrl_picker_header = 2131230910;
+			public const int mtrl_internal_children_alpha_tag = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int mtrl_picker_header_selection_text = 2131230911;
+			public const int mtrl_picker_fullscreen = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int mtrl_picker_header_title_and_selection = 2131230912;
+			public const int mtrl_picker_header = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int mtrl_picker_header_toggle = 2131230913;
+			public const int mtrl_picker_header_selection_text = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int mtrl_picker_text_input_date = 2131230914;
+			public const int mtrl_picker_header_title_and_selection = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int mtrl_picker_text_input_range_end = 2131230915;
+			public const int mtrl_picker_header_toggle = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int mtrl_picker_text_input_range_start = 2131230916;
+			public const int mtrl_picker_text_input_date = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int mtrl_picker_title_text = 2131230917;
+			public const int mtrl_picker_text_input_range_end = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int multiply = 2131230918;
+			public const int mtrl_picker_text_input_range_start = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int navigation_header_container = 2131230919;
+			public const int mtrl_picker_title_text = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int never = 2131230920;
-			
-			// aapt resource value: 0x7F0800CA
-			public const int none = 2131230922;
-			
-			// aapt resource value: 0x7F0800CB
-			public const int normal = 2131230923;
+			public const int multiply = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int noScroll = 2131230921;
+			public const int navigation_header_container = 2131230921;
+			
+			// aapt resource value: 0x7F0800CA
+			public const int never = 2131230922;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int notification_background = 2131230924;
+			public const int none = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int notification_main_column = 2131230925;
+			public const int normal = 2131230925;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int noScroll = 2131230923;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int notification_main_column_container = 2131230926;
+			public const int notification_background = 2131230926;
 			
 			// aapt resource value: 0x7F0800CF
-			public const int off = 2131230927;
+			public const int notification_main_column = 2131230927;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int on = 2131230928;
+			public const int notification_main_column_container = 2131230928;
 			
 			// aapt resource value: 0x7F0800D1
-			public const int outline = 2131230929;
+			public const int off = 2131230929;
 			
 			// aapt resource value: 0x7F0800D2
-			public const int packed = 2131230930;
+			public const int on = 2131230930;
 			
 			// aapt resource value: 0x7F0800D3
-			public const int parallax = 2131230931;
+			public const int outline = 2131230931;
 			
 			// aapt resource value: 0x7F0800D4
-			public const int parent = 2131230932;
+			public const int packed = 2131230932;
 			
 			// aapt resource value: 0x7F0800D5
-			public const int parentPanel = 2131230933;
+			public const int parallax = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int parent_matrix = 2131230934;
+			public const int parent = 2131230934;
 			
 			// aapt resource value: 0x7F0800D7
-			public const int password_toggle = 2131230935;
+			public const int parentPanel = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int peekHeight = 2131230936;
+			public const int parent_matrix = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int percent = 2131230937;
+			public const int password_toggle = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int pin = 2131230938;
+			public const int peekHeight = 2131230938;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int progress_circular = 2131230939;
+			public const int percent = 2131230939;
 			
 			// aapt resource value: 0x7F0800DC
-			public const int progress_horizontal = 2131230940;
+			public const int pin = 2131230940;
 			
 			// aapt resource value: 0x7F0800DD
-			public const int radio = 2131230941;
+			public const int progress_circular = 2131230941;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int right = 2131230942;
+			public const int progress_horizontal = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int right_icon = 2131230943;
+			public const int radio = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int right_side = 2131230944;
+			public const int right = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int rounded = 2131230945;
+			public const int right_icon = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int save_non_transition_alpha = 2131230946;
+			public const int right_side = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int save_overlay_view = 2131230947;
+			public const int rounded = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int scale = 2131230948;
+			public const int save_non_transition_alpha = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int screen = 2131230949;
+			public const int save_overlay_view = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int scroll = 2131230950;
-			
-			// aapt resource value: 0x7F0800EA
-			public const int scrollable = 2131230954;
+			public const int scale = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int scrollIndicatorDown = 2131230951;
+			public const int screen = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int scrollIndicatorUp = 2131230952;
-			
-			// aapt resource value: 0x7F0800E9
-			public const int scrollView = 2131230953;
-			
-			// aapt resource value: 0x7F0800EB
-			public const int search_badge = 2131230955;
+			public const int scroll = 2131230952;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int search_bar = 2131230956;
+			public const int scrollable = 2131230956;
+			
+			// aapt resource value: 0x7F0800E9
+			public const int scrollIndicatorDown = 2131230953;
+			
+			// aapt resource value: 0x7F0800EA
+			public const int scrollIndicatorUp = 2131230954;
+			
+			// aapt resource value: 0x7F0800EB
+			public const int scrollView = 2131230955;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int search_button = 2131230957;
+			public const int search_badge = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int search_close_btn = 2131230958;
+			public const int search_bar = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int search_edit_frame = 2131230959;
+			public const int search_button = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int search_go_btn = 2131230960;
+			public const int search_close_btn = 2131230960;
 			
 			// aapt resource value: 0x7F0800F1
-			public const int search_mag_icon = 2131230961;
+			public const int search_edit_frame = 2131230961;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int search_plate = 2131230962;
+			public const int search_go_btn = 2131230962;
 			
 			// aapt resource value: 0x7F0800F3
-			public const int search_src_text = 2131230963;
+			public const int search_mag_icon = 2131230963;
 			
 			// aapt resource value: 0x7F0800F4
-			public const int search_voice_btn = 2131230964;
-			
-			// aapt resource value: 0x7F0800F6
-			public const int selected = 2131230966;
+			public const int search_plate = 2131230964;
 			
 			// aapt resource value: 0x7F0800F5
-			public const int select_dialog_listview = 2131230965;
+			public const int search_src_text = 2131230965;
 			
-			// aapt resource value: 0x7F0800F7
-			public const int shellcontent_appbar = 2131230967;
+			// aapt resource value: 0x7F0800F6
+			public const int search_voice_btn = 2131230966;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int shellcontent_toolbar = 2131230968;
+			public const int selected = 2131230968;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int select_dialog_listview = 2131230967;
+			
+			// aapt resource value: 0x7F0800F9
+			public const int shellcontent_appbar = 2131230969;
+			
+			// aapt resource value: 0x7F0800FA
+			public const int shellcontent_toolbar = 2131230970;
 			
 			// aapt resource value: 0x7F080006
 			public const int SHIFT = 2131230726;
 			
-			// aapt resource value: 0x7F0800F9
-			public const int shortcut = 2131230969;
-			
-			// aapt resource value: 0x7F0800FA
-			public const int showCustom = 2131230970;
-			
 			// aapt resource value: 0x7F0800FB
-			public const int showHome = 2131230971;
+			public const int shortcut = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int showTitle = 2131230972;
+			public const int showCustom = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int skipCollapsed = 2131230973;
+			public const int showHome = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int slide = 2131230974;
+			public const int showTitle = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int sliding_tabs = 2131230975;
+			public const int skipCollapsed = 2131230975;
 			
 			// aapt resource value: 0x7F080100
-			public const int smallLabel = 2131230976;
+			public const int slide = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int snackbar_action = 2131230977;
+			public const int sliding_tabs = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int snackbar_text = 2131230978;
+			public const int smallLabel = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int snap = 2131230979;
+			public const int snackbar_action = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int snapMargins = 2131230980;
+			public const int snackbar_text = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int spacer = 2131230981;
+			public const int snap = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int split_action_bar = 2131230982;
+			public const int snapMargins = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int spread = 2131230983;
+			public const int spacer = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int spread_inside = 2131230984;
+			public const int split_action_bar = 2131230984;
 			
 			// aapt resource value: 0x7F080109
-			public const int src_atop = 2131230985;
+			public const int spread = 2131230985;
 			
 			// aapt resource value: 0x7F08010A
-			public const int src_in = 2131230986;
+			public const int spread_inside = 2131230986;
 			
 			// aapt resource value: 0x7F08010B
-			public const int src_over = 2131230987;
+			public const int src_atop = 2131230987;
 			
 			// aapt resource value: 0x7F08010C
-			public const int standard = 2131230988;
+			public const int src_in = 2131230988;
 			
 			// aapt resource value: 0x7F08010D
-			public const int start = 2131230989;
+			public const int src_over = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int status_bar_latest_event_content = 2131230990;
+			public const int standard = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int stretch = 2131230991;
+			public const int start = 2131230991;
 			
 			// aapt resource value: 0x7F080110
-			public const int submenuarrow = 2131230992;
+			public const int status_bar_latest_event_content = 2131230992;
 			
 			// aapt resource value: 0x7F080111
-			public const int submit_area = 2131230993;
+			public const int stretch = 2131230993;
+			
+			// aapt resource value: 0x7F080112
+			public const int submenuarrow = 2131230994;
+			
+			// aapt resource value: 0x7F080113
+			public const int submit_area = 2131230995;
 			
 			// aapt resource value: 0x7F080007
 			public const int SYM = 2131230727;
 			
-			// aapt resource value: 0x7F080112
-			public const int tabMode = 2131230994;
-			
-			// aapt resource value: 0x7F080113
-			public const int tag_accessibility_actions = 2131230995;
-			
 			// aapt resource value: 0x7F080114
-			public const int tag_accessibility_clickable_spans = 2131230996;
+			public const int tabMode = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int tag_accessibility_heading = 2131230997;
+			public const int tag_accessibility_actions = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int tag_accessibility_pane_title = 2131230998;
+			public const int tag_accessibility_clickable_spans = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int tag_screen_reader_focusable = 2131230999;
+			public const int tag_accessibility_heading = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int tag_transition_group = 2131231000;
+			public const int tag_accessibility_pane_title = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int tag_unhandled_key_event_manager = 2131231001;
+			public const int tag_screen_reader_focusable = 2131231001;
 			
 			// aapt resource value: 0x7F08011A
-			public const int tag_unhandled_key_listeners = 2131231002;
+			public const int tag_transition_group = 2131231002;
 			
 			// aapt resource value: 0x7F08011B
-			public const int test_checkbox_android_button_tint = 2131231003;
+			public const int tag_unhandled_key_event_manager = 2131231003;
 			
 			// aapt resource value: 0x7F08011C
-			public const int test_checkbox_app_button_tint = 2131231004;
+			public const int tag_unhandled_key_listeners = 2131231004;
 			
 			// aapt resource value: 0x7F08011D
-			public const int text = 2131231005;
+			public const int test_checkbox_android_button_tint = 2131231005;
 			
 			// aapt resource value: 0x7F08011E
-			public const int text2 = 2131231006;
+			public const int test_checkbox_app_button_tint = 2131231006;
 			
 			// aapt resource value: 0x7F08011F
-			public const int textEnd = 2131231007;
-			
-			// aapt resource value: 0x7F080125
-			public const int textinput_counter = 2131231013;
-			
-			// aapt resource value: 0x7F080126
-			public const int textinput_error = 2131231014;
-			
-			// aapt resource value: 0x7F080127
-			public const int textinput_helper_text = 2131231015;
+			public const int text = 2131231007;
 			
 			// aapt resource value: 0x7F080120
-			public const int textSpacerNoButtons = 2131231008;
+			public const int text2 = 2131231008;
 			
 			// aapt resource value: 0x7F080121
-			public const int textSpacerNoTitle = 2131231009;
+			public const int textEnd = 2131231009;
 			
-			// aapt resource value: 0x7F080122
-			public const int textStart = 2131231010;
-			
-			// aapt resource value: 0x7F080123
-			public const int text_input_end_icon = 2131231011;
-			
-			// aapt resource value: 0x7F080124
-			public const int text_input_start_icon = 2131231012;
+			// aapt resource value: 0x7F080127
+			public const int textinput_counter = 2131231015;
 			
 			// aapt resource value: 0x7F080128
-			public const int time = 2131231016;
+			public const int textinput_error = 2131231016;
 			
 			// aapt resource value: 0x7F080129
-			public const int title = 2131231017;
+			public const int textinput_helper_text = 2131231017;
+			
+			// aapt resource value: 0x7F080122
+			public const int textSpacerNoButtons = 2131231010;
+			
+			// aapt resource value: 0x7F080123
+			public const int textSpacerNoTitle = 2131231011;
+			
+			// aapt resource value: 0x7F080124
+			public const int textStart = 2131231012;
+			
+			// aapt resource value: 0x7F080125
+			public const int text_input_end_icon = 2131231013;
+			
+			// aapt resource value: 0x7F080126
+			public const int text_input_start_icon = 2131231014;
 			
 			// aapt resource value: 0x7F08012A
-			public const int titleDividerNoCustom = 2131231018;
+			public const int time = 2131231018;
 			
 			// aapt resource value: 0x7F08012B
-			public const int title_template = 2131231019;
+			public const int title = 2131231019;
 			
 			// aapt resource value: 0x7F08012C
-			public const int toolbar = 2131231020;
+			public const int titleDividerNoCustom = 2131231020;
 			
 			// aapt resource value: 0x7F08012D
-			public const int top = 2131231021;
+			public const int title_template = 2131231021;
 			
 			// aapt resource value: 0x7F08012E
-			public const int topPanel = 2131231022;
+			public const int toolbar = 2131231022;
+			
+			// aapt resource value: 0x7F08012F
+			public const int top = 2131231023;
+			
+			// aapt resource value: 0x7F080130
+			public const int topPanel = 2131231024;
 			
 			// aapt resource value: 0x7F080008
 			public const int TOP_END = 2131230728;
@@ -10735,56 +14419,56 @@ namespace Angpysha.LeftTabbedPage.Demo.Droid
 			// aapt resource value: 0x7F080009
 			public const int TOP_START = 2131230729;
 			
-			// aapt resource value: 0x7F08012F
-			public const int touch_outside = 2131231023;
-			
-			// aapt resource value: 0x7F080130
-			public const int transition_current_scene = 2131231024;
-			
 			// aapt resource value: 0x7F080131
-			public const int transition_layout_save = 2131231025;
+			public const int touch_outside = 2131231025;
 			
 			// aapt resource value: 0x7F080132
-			public const int transition_position = 2131231026;
+			public const int transition_current_scene = 2131231026;
 			
 			// aapt resource value: 0x7F080133
-			public const int transition_scene_layoutid_cache = 2131231027;
+			public const int transition_layout_save = 2131231027;
 			
 			// aapt resource value: 0x7F080134
-			public const int transition_transform = 2131231028;
+			public const int transition_position = 2131231028;
 			
 			// aapt resource value: 0x7F080135
-			public const int @unchecked = 2131231029;
+			public const int transition_scene_layoutid_cache = 2131231029;
 			
 			// aapt resource value: 0x7F080136
-			public const int uniform = 2131231030;
+			public const int transition_transform = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int unlabeled = 2131231031;
+			public const int @unchecked = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int up = 2131231032;
+			public const int uniform = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int useLogo = 2131231033;
+			public const int unlabeled = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int view_offset_helper = 2131231034;
+			public const int up = 2131231034;
 			
 			// aapt resource value: 0x7F08013B
-			public const int visible = 2131231035;
+			public const int useLogo = 2131231035;
 			
 			// aapt resource value: 0x7F08013C
-			public const int visible_removing_fragment_view_tag = 2131231036;
+			public const int view_offset_helper = 2131231036;
 			
 			// aapt resource value: 0x7F08013D
-			public const int withText = 2131231037;
+			public const int visible = 2131231037;
 			
 			// aapt resource value: 0x7F08013E
-			public const int wrap = 2131231038;
+			public const int visible_removing_fragment_view_tag = 2131231038;
 			
 			// aapt resource value: 0x7F08013F
-			public const int wrap_content = 2131231039;
+			public const int withText = 2131231039;
+			
+			// aapt resource value: 0x7F080140
+			public const int wrap = 2131231040;
+			
+			// aapt resource value: 0x7F080141
+			public const int wrap_content = 2131231041;
 			
 			static Id()
 			{
@@ -11075,193 +14759,196 @@ namespace Angpysha.LeftTabbedPage.Demo.Droid
 			public const int FlyoutContent = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int mtrl_alert_dialog = 2131427379;
+			public const int left_tabbed_fragment = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int mtrl_alert_dialog_actions = 2131427380;
+			public const int mtrl_alert_dialog = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int mtrl_alert_dialog_title = 2131427381;
+			public const int mtrl_alert_dialog_actions = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int mtrl_alert_select_dialog_item = 2131427382;
+			public const int mtrl_alert_dialog_title = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int mtrl_alert_select_dialog_multichoice = 2131427383;
+			public const int mtrl_alert_select_dialog_item = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int mtrl_alert_select_dialog_singlechoice = 2131427384;
+			public const int mtrl_alert_select_dialog_multichoice = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int mtrl_calendar_day = 2131427385;
-			
-			// aapt resource value: 0x7F0B003B
-			public const int mtrl_calendar_days_of_week = 2131427387;
+			public const int mtrl_alert_select_dialog_singlechoice = 2131427385;
 			
 			// aapt resource value: 0x7F0B003A
-			public const int mtrl_calendar_day_of_week = 2131427386;
+			public const int mtrl_calendar_day = 2131427386;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int mtrl_calendar_horizontal = 2131427388;
+			public const int mtrl_calendar_days_of_week = 2131427388;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int mtrl_calendar_day_of_week = 2131427387;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int mtrl_calendar_month = 2131427389;
-			
-			// aapt resource value: 0x7F0B0040
-			public const int mtrl_calendar_months = 2131427392;
+			public const int mtrl_calendar_horizontal = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int mtrl_calendar_month_labeled = 2131427390;
-			
-			// aapt resource value: 0x7F0B003F
-			public const int mtrl_calendar_month_navigation = 2131427391;
+			public const int mtrl_calendar_month = 2131427390;
 			
 			// aapt resource value: 0x7F0B0041
-			public const int mtrl_calendar_vertical = 2131427393;
+			public const int mtrl_calendar_months = 2131427393;
+			
+			// aapt resource value: 0x7F0B003F
+			public const int mtrl_calendar_month_labeled = 2131427391;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int mtrl_calendar_month_navigation = 2131427392;
 			
 			// aapt resource value: 0x7F0B0042
-			public const int mtrl_calendar_year = 2131427394;
+			public const int mtrl_calendar_vertical = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int mtrl_layout_snackbar = 2131427395;
+			public const int mtrl_calendar_year = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int mtrl_layout_snackbar_include = 2131427396;
+			public const int mtrl_layout_snackbar = 2131427396;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int mtrl_picker_actions = 2131427397;
+			public const int mtrl_layout_snackbar_include = 2131427397;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int mtrl_picker_dialog = 2131427398;
+			public const int mtrl_picker_actions = 2131427398;
 			
 			// aapt resource value: 0x7F0B0047
-			public const int mtrl_picker_fullscreen = 2131427399;
+			public const int mtrl_picker_dialog = 2131427399;
 			
 			// aapt resource value: 0x7F0B0048
-			public const int mtrl_picker_header_dialog = 2131427400;
+			public const int mtrl_picker_fullscreen = 2131427400;
 			
 			// aapt resource value: 0x7F0B0049
-			public const int mtrl_picker_header_fullscreen = 2131427401;
+			public const int mtrl_picker_header_dialog = 2131427401;
 			
 			// aapt resource value: 0x7F0B004A
-			public const int mtrl_picker_header_selection_text = 2131427402;
+			public const int mtrl_picker_header_fullscreen = 2131427402;
 			
 			// aapt resource value: 0x7F0B004B
-			public const int mtrl_picker_header_title_text = 2131427403;
+			public const int mtrl_picker_header_selection_text = 2131427403;
 			
 			// aapt resource value: 0x7F0B004C
-			public const int mtrl_picker_header_toggle = 2131427404;
+			public const int mtrl_picker_header_title_text = 2131427404;
 			
 			// aapt resource value: 0x7F0B004D
-			public const int mtrl_picker_text_input_date = 2131427405;
+			public const int mtrl_picker_header_toggle = 2131427405;
 			
 			// aapt resource value: 0x7F0B004E
-			public const int mtrl_picker_text_input_date_range = 2131427406;
+			public const int mtrl_picker_text_input_date = 2131427406;
 			
 			// aapt resource value: 0x7F0B004F
-			public const int notification_action = 2131427407;
+			public const int mtrl_picker_text_input_date_range = 2131427407;
 			
 			// aapt resource value: 0x7F0B0050
-			public const int notification_action_tombstone = 2131427408;
+			public const int notification_action = 2131427408;
 			
 			// aapt resource value: 0x7F0B0051
-			public const int notification_media_action = 2131427409;
+			public const int notification_action_tombstone = 2131427409;
 			
 			// aapt resource value: 0x7F0B0052
-			public const int notification_media_cancel_action = 2131427410;
+			public const int notification_media_action = 2131427410;
 			
 			// aapt resource value: 0x7F0B0053
-			public const int notification_template_big_media = 2131427411;
+			public const int notification_media_cancel_action = 2131427411;
 			
 			// aapt resource value: 0x7F0B0054
-			public const int notification_template_big_media_custom = 2131427412;
+			public const int notification_template_big_media = 2131427412;
 			
 			// aapt resource value: 0x7F0B0055
-			public const int notification_template_big_media_narrow = 2131427413;
+			public const int notification_template_big_media_custom = 2131427413;
 			
 			// aapt resource value: 0x7F0B0056
-			public const int notification_template_big_media_narrow_custom = 2131427414;
+			public const int notification_template_big_media_narrow = 2131427414;
 			
 			// aapt resource value: 0x7F0B0057
-			public const int notification_template_custom_big = 2131427415;
+			public const int notification_template_big_media_narrow_custom = 2131427415;
 			
 			// aapt resource value: 0x7F0B0058
-			public const int notification_template_icon_group = 2131427416;
+			public const int notification_template_custom_big = 2131427416;
 			
 			// aapt resource value: 0x7F0B0059
-			public const int notification_template_lines_media = 2131427417;
+			public const int notification_template_icon_group = 2131427417;
 			
 			// aapt resource value: 0x7F0B005A
-			public const int notification_template_media = 2131427418;
+			public const int notification_template_lines_media = 2131427418;
 			
 			// aapt resource value: 0x7F0B005B
-			public const int notification_template_media_custom = 2131427419;
+			public const int notification_template_media = 2131427419;
 			
 			// aapt resource value: 0x7F0B005C
-			public const int notification_template_part_chronometer = 2131427420;
+			public const int notification_template_media_custom = 2131427420;
 			
 			// aapt resource value: 0x7F0B005D
-			public const int notification_template_part_time = 2131427421;
+			public const int notification_template_part_chronometer = 2131427421;
 			
 			// aapt resource value: 0x7F0B005E
-			public const int RootLayout = 2131427422;
+			public const int notification_template_part_time = 2131427422;
 			
 			// aapt resource value: 0x7F0B005F
-			public const int select_dialog_item_material = 2131427423;
+			public const int RootLayout = 2131427423;
 			
 			// aapt resource value: 0x7F0B0060
-			public const int select_dialog_multichoice_material = 2131427424;
+			public const int select_dialog_item_material = 2131427424;
 			
 			// aapt resource value: 0x7F0B0061
-			public const int select_dialog_singlechoice_material = 2131427425;
+			public const int select_dialog_multichoice_material = 2131427425;
 			
 			// aapt resource value: 0x7F0B0062
-			public const int ShellContent = 2131427426;
+			public const int select_dialog_singlechoice_material = 2131427426;
 			
 			// aapt resource value: 0x7F0B0063
-			public const int support_simple_spinner_dropdown_item = 2131427427;
+			public const int ShellContent = 2131427427;
 			
 			// aapt resource value: 0x7F0B0064
-			public const int Tabbar = 2131427428;
+			public const int support_simple_spinner_dropdown_item = 2131427428;
 			
 			// aapt resource value: 0x7F0B0065
-			public const int test_action_chip = 2131427429;
+			public const int Tabbar = 2131427429;
 			
 			// aapt resource value: 0x7F0B0066
-			public const int test_design_checkbox = 2131427430;
+			public const int test_action_chip = 2131427430;
 			
 			// aapt resource value: 0x7F0B0067
-			public const int test_reflow_chipgroup = 2131427431;
+			public const int test_design_checkbox = 2131427431;
 			
 			// aapt resource value: 0x7F0B0068
-			public const int test_toolbar = 2131427432;
+			public const int test_reflow_chipgroup = 2131427432;
 			
 			// aapt resource value: 0x7F0B0069
-			public const int test_toolbar_custom_background = 2131427433;
+			public const int test_toolbar = 2131427433;
 			
 			// aapt resource value: 0x7F0B006A
-			public const int test_toolbar_elevation = 2131427434;
+			public const int test_toolbar_custom_background = 2131427434;
 			
 			// aapt resource value: 0x7F0B006B
-			public const int test_toolbar_surface = 2131427435;
-			
-			// aapt resource value: 0x7F0B0070
-			public const int text_view_without_line_height = 2131427440;
+			public const int test_toolbar_elevation = 2131427435;
 			
 			// aapt resource value: 0x7F0B006C
-			public const int text_view_with_line_height_from_appearance = 2131427436;
-			
-			// aapt resource value: 0x7F0B006D
-			public const int text_view_with_line_height_from_layout = 2131427437;
-			
-			// aapt resource value: 0x7F0B006E
-			public const int text_view_with_line_height_from_style = 2131427438;
-			
-			// aapt resource value: 0x7F0B006F
-			public const int text_view_with_theme_line_height = 2131427439;
+			public const int test_toolbar_surface = 2131427436;
 			
 			// aapt resource value: 0x7F0B0071
-			public const int Toolbar = 2131427441;
+			public const int text_view_without_line_height = 2131427441;
+			
+			// aapt resource value: 0x7F0B006D
+			public const int text_view_with_line_height_from_appearance = 2131427437;
+			
+			// aapt resource value: 0x7F0B006E
+			public const int text_view_with_line_height_from_layout = 2131427438;
+			
+			// aapt resource value: 0x7F0B006F
+			public const int text_view_with_line_height_from_style = 2131427439;
+			
+			// aapt resource value: 0x7F0B0070
+			public const int text_view_with_theme_line_height = 2131427440;
+			
+			// aapt resource value: 0x7F0B0072
+			public const int Toolbar = 2131427442;
 			
 			static Layout()
 			{
