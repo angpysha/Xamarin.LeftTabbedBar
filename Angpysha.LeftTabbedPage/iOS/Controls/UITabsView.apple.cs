@@ -156,6 +156,7 @@ namespace Plugin.Angpysha.LeftTabbedPage
             {
                 var view = LeftTabbedPage.Header;
 
+                var req = (view as VisualElement).Measure(500, 500, MeasureFlags.IncludeMargins);
                 var rect = new Rectangle(0, 0, view.WidthRequest, view.HeightRequest);
 
                 view.BindingContext = LeftTabbedPage.BindingContext;
