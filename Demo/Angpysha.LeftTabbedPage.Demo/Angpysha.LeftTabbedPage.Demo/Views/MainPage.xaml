@@ -17,6 +17,14 @@
             <Label Text="Test header"></Label>
         </Grid>
     </shared:LeftTabbedPage.Header>
+    <shared:LeftTabbedPage.Footer>
+        <Grid VerticalOptions="EndAndExpand"
+              HorizontalOptions="CenterAndExpand"
+              WidthRequest="64"
+              HeightRequest="120">
+            <Label Text="Test footer"></Label>
+        </Grid>
+    </shared:LeftTabbedPage.Footer>
     <shared:LeftTabbedPage.TabItemTemplate>
         <DataTemplate>
             <shared:ViewCellEx>
@@ -30,7 +38,16 @@
                     </Image>
                     <Label Text="{Binding Title}"
                            Grid.Row="1"
-                           HorizontalOptions="CenterAndExpand"></Label>
+                           HorizontalOptions="CenterAndExpand"
+                           TextColor="Black">
+                        <Label.Triggers>
+                            <DataTrigger Binding="{Binding Active, Mode=TwoWay}"
+                                         Value="True"
+                                         TargetType="Label">
+                                <Setter Property="TextColor" Value="Red"></Setter>
+                            </DataTrigger>
+                        </Label.Triggers>
+                    </Label>
                 </Grid>
             </shared:ViewCellEx>
         </DataTemplate>

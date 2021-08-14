@@ -18,8 +18,12 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
     public class RecyclerViewAdapter : RecyclerView.Adapter
     {
 
+        public event EventHandler<int> OnItemClicked = delegate { };
+
         public IEnumerable<MenuItem> MenuItems { get; set; }
         private int position = 0;
+        private int pagePosition = 0;
+        private int prevPosition = -1;
         public WeakReference<Shared.LeftTabbedPage> weakTabbed;
 
         public Context Context;
@@ -43,9 +47,15 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
             };
         }
 
-        private void OnClicked(int position)
+        internal void OnClicked(int position)
         {
-            
+            prevPosition = this.pagePosition;
+            pagePosition = position;
+            MenuItems.ElementAt(prevPosition).Active = false;
+            MenuItems.ElementAt(pagePosition).Active = true;
+            NotifyItemChanged(prevPosition);
+            NotifyItemChanged(pagePosition);
+            OnItemClicked(this, pagePosition);
         }
 
         public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)

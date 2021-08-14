@@ -218,11 +218,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
         private UIViewController GetViewController(Page page)
         {
-            // var screenWidth = DeviceDisplay.MainDisplayInfo.Width;
-            // var screenHeight = DeviceDisplay.MainDisplayInfo.Height;
-            // page.WidthRequest = screenWidth - _tabBarWidth;
-            // page.Layout(new Rectangle(0,0,screenWidth-_tabBarWidth,screenHeight));
-        
+
             var renderer = page.GetRenderer();
         
             if (renderer == null)
@@ -259,19 +255,12 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             {
                 TabbedPage.CurrentPage = nextPage;
             }
-          //  MoveToByIndex(index);
         }
 
         public virtual void MoveToByIndex(int selectedIndex, bool forced = false)
         {
             if (selectedIndex == LastSelectedIndex && !forced)
                 return;
-
-            // var nextPage = TabbedPage.Children[selectedIndex];
-            // if (TabbedPage.CurrentPage != nextPage)
-            // {
-            //     TabbedPage.CurrentPage = nextPage;
-            // }
 
             var direction = LastSelectedIndex < selectedIndex
                 ? UIPageViewControllerNavigationDirection.Forward
