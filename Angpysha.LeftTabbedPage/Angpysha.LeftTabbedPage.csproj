@@ -14,25 +14,30 @@
     <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
     
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>0.0.0.1</AssemblyVersion>
-    <AssemblyFileVersion>0.0.0.1</AssemblyFileVersion>
-    <Version>0.0.0.1</Version>
-    <PackageVersion>0.0.0.1</PackageVersion>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <AssemblyFileVersion>0.1.0.0</AssemblyFileVersion>
+    <Version>0.1.0.0</Version>
+    <PackageVersion>0.1.0.0</PackageVersion>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
-    <LangVersion>default</LangVersion>
     <DefineConstants>$(DefineConstants);</DefineConstants>
-    
+
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <!-- Optional: Embed source files that are not tracked by the source control manager in the PDB -->
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
 
+    <!-- Optional: Build symbol package (.snupkg) to distribute the PDB containing Source Link -->
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <LangVersion>latest</LangVersion>
     <DebugType>portable</DebugType>
     
     <!--TODO: Fill these in-->
-    <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>LINK TO PROJECT</PackageProjectUrl>
-    <RepositoryUrl>LINK TO PROJECT</RepositoryUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/angpysha/Xamarin.LeftTabbedBar/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar.git</RepositoryUrl>
     <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
     <PackageIconUrl>ICON URL</PackageIconUrl>
     <PackageTags>tabbedpage</PackageTags>
@@ -50,6 +55,10 @@
     <DisableExtraReferences>true</DisableExtraReferences>
     
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All"/>
+  </ItemGroup>
+
 
   <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
     <DebugSymbols>true</DebugSymbols>
