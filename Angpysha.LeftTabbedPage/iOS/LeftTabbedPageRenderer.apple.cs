@@ -292,11 +292,13 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                             direction, false, null);
                     }
                 });
+            SetTab(LastSelectedIndex);
         }
 
         public void SetTab(int index)
         {
             _tabBarView.SetTab(NSIndexPath.FromRowSection(index, 0));
+            _tabBarView.ReloadData();
         }
 
         protected virtual void OnPropertyChanged(object sender, PropertyChangedEventArgs args)
