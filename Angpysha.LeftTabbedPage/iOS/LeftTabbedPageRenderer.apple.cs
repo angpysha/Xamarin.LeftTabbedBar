@@ -97,8 +97,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
             var newWidth = (float) Element.Width + _tabBarWidth;
             if (!Element.Bounds.IsEmpty)
-                NativeView.Frame = new RectangleF(0, (float) Element.Y, (float) Element.Width+_tabBarWidth,
-                    (float) Element.Height);
+                NativeView.Frame = new RectangleF(0, (float) 0, (float) Element.Width+_tabBarWidth,
+                    (float) Element.Height + (float) Element.Y);
             if (_pageViewController.ViewControllers.Length == 0
                 && LastSelectedIndex >= 0 && LastSelectedIndex < TabbedPage.Children.Count)
             {

@@ -14,10 +14,10 @@
     <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
     
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>0.1.0.1</AssemblyVersion>
-    <AssemblyFileVersion>0.1.0.1</AssemblyFileVersion>
-    <Version>0.1.0.1</Version>
-    <PackageVersion>0.1.0.1</PackageVersion>
+    <AssemblyVersion>0.1.0.2</AssemblyVersion>
+    <AssemblyFileVersion>0.1.0.2</AssemblyFileVersion>
+    <Version>0.1.0.2</Version>
+    <PackageVersion>0.1.0.2</PackageVersion>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
     <DefineConstants>$(DefineConstants);</DefineConstants>
