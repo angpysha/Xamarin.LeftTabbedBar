@@ -161,7 +161,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         {
             var widthNew = size.Width - _tabBarWidth;
             // if (_loaded)
-            Element.Layout(new Rectangle(_tabBarWidth, Element.Y, widthNew, size.Height));
+            Element.Layout(new Rectangle(_tabBarWidth, 0, widthNew, size.Height));
             // else
             //     _queuedSize = size;
         }

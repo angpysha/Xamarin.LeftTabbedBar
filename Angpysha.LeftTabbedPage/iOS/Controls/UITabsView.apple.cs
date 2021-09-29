@@ -29,7 +29,7 @@ namespace Plugin.Angpysha.LeftTabbedPage
         public UITabsView()
         {
             var height = UIScreen.MainScreen.Bounds.Height;
-            table = new UITableView(new CGRect(0, 15, 64, height));
+            table = new UITableView(new CGRect(0, 0, 64, height));
             table.ScrollEnabled = false;
             table.SeparatorStyle = UITableViewCellSeparatorStyle.None;
             AddSubview(table);
