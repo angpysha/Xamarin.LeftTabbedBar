@@ -97,8 +97,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
             var newWidth = (float) Element.Width + _tabBarWidth;
             if (!Element.Bounds.IsEmpty)
-                NativeView.Frame = new RectangleF(0, (float) Element.Y, (float) Element.Width+_tabBarWidth,
-                    (float) Element.Height);
+                NativeView.Frame = new RectangleF(0, (float) 0, (float) Element.Width+_tabBarWidth,
+                    (float) Element.Height + (float) Element.Y);
             if (_pageViewController.ViewControllers.Length == 0
                 && LastSelectedIndex >= 0 && LastSelectedIndex < TabbedPage.Children.Count)
             {
@@ -161,7 +161,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
         {
             var widthNew = size.Width - _tabBarWidth;
             // if (_loaded)
-            Element.Layout(new Rectangle(_tabBarWidth, Element.Y, widthNew, size.Height));
+            Element.Layout(new Rectangle(_tabBarWidth, 0, widthNew, size.Height));
             // else
             //     _queuedSize = size;
         }
@@ -281,11 +281,13 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
                             direction, false, null);
                     }
                 });
+            SetTab(LastSelectedIndex);
         }
 
         public void SetTab(int index)
         {
             _tabBarView.SetTab(NSIndexPath.FromRowSection(index, 0));
+            _tabBarView.ReloadData();
         }
 
         protected virtual void OnPropertyChanged(object sender, PropertyChangedEventArgs args)
