@@ -1,73 +1,47 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras/3.0.23">
 
-  <PropertyGroup>
-    <!--Work around so the conditions work below-->
-    <TargetFrameworks>netstandard2.0;Xamarin.iOS10;MonoAndroid11.0</TargetFrameworks>
-    <!--<TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90;uap10.0.16299</TargetFrameworks>
+	<PropertyGroup>
+		<!--Work around so the conditions work below-->
+		<TargetFrameworks>net6.0-android;net6.0-ios</TargetFrameworks>
+		<!--<TargetFrameworks>netstandard2.0;Xamarin.iOS10;MonoAndroid11.0</TargetFrameworks>-->
+		<!--<TargetFrameworks Condition=" '$(OS)' == 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90;uap10.0.16299</TargetFrameworks>
     <TargetFrameworks Condition=" '$(OS)' != 'Windows_NT' ">netstandard1.0;netstandard2.0;Xamarin.iOS10;MonoAndroid90</TargetFrameworks>-->
-    <!--Feel free to add as many targets as you need below
+		<!--Feel free to add as many targets as you need below
     netstandard1.0;netstandard2.0;MonoAndroid90;Xamarin.iOS10;uap10.0.16299;Xamarin.TVOS10;Xamarin.WatchOS10;Xamarin.Mac20;Tizen40
     For UWP update the version number with a version number you have installed.
     -->
-    <AssemblyName>Plugin.Angpysha.LeftTabbedPage</AssemblyName>
-    <RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
-    <PackageId>Plugin.Angpysha.LeftTabbedPage</PackageId>
-    
-    <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <AssemblyVersion>0.1.0.2</AssemblyVersion>
-    <AssemblyFileVersion>0.1.0.2</AssemblyFileVersion>
-    <Version>0.1.0.2</Version>
-    <PackageVersion>0.1.0.2</PackageVersion>
-    <PackOnBuild>true</PackOnBuild>
-    <NeutralLanguage>en</NeutralLanguage>
-    <DefineConstants>$(DefineConstants);</DefineConstants>
+		<AssemblyName>Plugin.Angpysha.LeftTabbedPage</AssemblyName>
+		<RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
+		<PackageId>Plugin.Angpysha.LeftTabbedPage.Maui</PackageId>
+		<UseMaui>True</UseMaui>
+		<Product>$(AssemblyName) ($(TargetFramework))</Product>
+		<AssemblyVersion>0.1.0.2</AssemblyVersion>
+		<AssemblyFileVersion>0.1.0.2</AssemblyFileVersion>
+		<Version>0.1.0.2</Version>
+		<PackageVersion>0.1.0.2</PackageVersion>
+		<PackOnBuild>true</PackOnBuild>
+		<NeutralLanguage>en</NeutralLanguage>
+		<DefineConstants>$(DefineConstants);</DefineConstants>
 
-    <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
-    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
-    <!-- Optional: Embed source files that are not tracked by the source control manager in the PDB -->
-    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
+		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+		<!-- Optional: Embed source files that are not tracked by the source control manager in the PDB -->
+		<EmbedUntrackedSources>true</EmbedUntrackedSources>
 
-    <!-- Optional: Build symbol package (.snupkg) to distribute the PDB containing Source Link -->
-    <IncludeSymbols>true</IncludeSymbols>
-    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <LangVersion>latest</LangVersion>
-    <DebugType>portable</DebugType>
-    
-    <!--TODO: Fill these in-->
-    <PackageLicenseUrl>https://raw.githubusercontent.com/angpysha/Xamarin.LeftTabbedBar/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar.git</RepositoryUrl>
-    <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
-    <PackageIconUrl>ICON URL</PackageIconUrl>
-    <PackageTags>tabbedpage</PackageTags>
-    
-    <Title>Left tabbed page</Title>
-    <Summary>Summary of nuget</Summary>
-    <Description>Plugin Description</Description>
-    
-    
-    <Owners>Andrii Petrovskyi</Owners>
-    <Authors>Andrii Petrovskyi</Authors>
-    <Copyright>Copyright 2020</Copyright>
+		<!-- Optional: Build symbol package (.snupkg) to distribute the PDB containing Source Link -->
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<LangVersion>latest</LangVersion>
+		<DebugType>portable</DebugType>
 
-    <!--When built in 2019 will remove extra references on pack-->
-    <DisableExtraReferences>true</DisableExtraReferences>
-    
-  </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
-  </ItemGroup>
-
-
-  <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
-    <DebugSymbols>true</DebugSymbols>
-    <GenerateDocumentationFile>false</GenerateDocumentationFile>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)'=='Release' ">
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
-  </PropertyGroup>
+		<!--TODO: Fill these in-->
+		<PackageLicenseUrl>https://raw.githubusercontent.com/angpysha/Xamarin.LeftTabbedBar/master/LICENSE</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/angpysha/Xamarin.LeftTabbedBar.git</RepositoryUrl>
+		<PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
+		<PackageIconUrl>ICON URL</PackageIconUrl>
+		<PackageTags>tabbedpage</PackageTags>
 
 		<Title>Left tabbed page</Title>
 		<Summary>Summary of nuget</Summary>
@@ -76,12 +50,17 @@
 
 		<Owners>Andrii Petrovskyi</Owners>
 		<Authors>Andrii Petrovskyi</Authors>
-		<Copyright>Copyright 2020</Copyright>
+		<Copyright>Copyright 2021</Copyright>
 
 		<!--When built in 2019 will remove extra references on pack-->
 		<DisableExtraReferences>true</DisableExtraReferences>
 
 	</PropertyGroup>
+	<!--<Import Project="Microsoft.Maui.Controls.MultiTargeting.targets" />-->
+	<ItemGroup>
+		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+	</ItemGroup>
+
 
 	<PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
 		<DebugSymbols>true</DebugSymbols>
@@ -92,15 +71,16 @@
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2088-angpysha" />
-    <PackageReference Include="Fody" Version="6.5.2">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="PropertyChanged.Fody" Version="3.4.0" />
-  </ItemGroup>
+
+	<ItemGroup>
+		<!--<PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2088-angpysha" />-->
+		<PackageReference Include="Fody" Version="6.5.2">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="PropertyChanged.Fody" Version="3.4.0" />
+	</ItemGroup>
 
 	<ItemGroup>
 		<Compile Include="**\*.shared.cs" />
@@ -110,168 +90,21 @@
 	</ItemGroup>
 
 
-	<ItemGroup Condition=" $(TargetFramework.StartsWith('uap10.0')) ">
-		<PackageReference Include="Microsoft.UI.Xaml" Version="2.6.1" />
-		<Compile Include="**\*.uwp.cs" />
-
-		<!--<None Update="UWP\Controls\LeftTabbedMainPageContainer.uwp.xaml.cs">
-			<DependentUpon>UWP\Controls\LeftTabbedMainPageContainer.uwp.xaml</DependentUpon>
-		</None>
-		<Compile Include="UWP\Controls\LeftTabbedMainPageContainer.uwp.xaml.cs">
-			<DependentUpon>UWP\Controls\LeftTabbedMainPageContainer.uwp.xaml</DependentUpon>
-		</Compile>
-		<Page Include="UWP\Controls\LeftTabbedMainPageContainer.uwp.xaml">
-			<Generator>MSBuild:Compile</Generator>
-			<SubType>Designer</SubType>
-		</Page>-->
-		<!--<Compile Include="Platform\UWP\**\*.cs" />-->
-		<Page Include="UWP\**\*.xaml" SubType="Designer" Generator="MSBuild:Compile" />
-		<None Update="UWP\**\*.xaml.cs" DependentUpon="%(Filename)" />
-		<Compile Update="UWP\**\*.xaml.cs" DependentUpon="%(Filename)" />
-		<!--<Compile Include="MainPage.xaml.cs">
-	        <DependentUpon>MainPage.xaml</DependentUpon>
-        </Compile-->
-		<!--<Page Include="MainPage.xaml">
-	        <Generator>MSBuild:Compile</Generator>
-	        <SubType>Designer</SubType>
-        </Page>-->
-		<!--
-        If you need to add sdk references:
-         <SDKReference Include="WindowsMobile, Version=10.0.16299.0">
-          <Name>Windows Mobile Extensions for the UWP</Name>
-        </SDKReference>
-        -->
-	</ItemGroup>
-
-	<ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
+	<ItemGroup Condition=" $(TargetFramework.StartsWith('net6.0-android')) ">
 		<Compile Include="**\*.android.cs" />
 	</ItemGroup>
 
-	<ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.iOS')) ">
+	<ItemGroup Condition=" $(TargetFramework.StartsWith('net6.0-ios')) ">
 		<Compile Include="**\*.apple.cs" />
 		<Compile Include="**\*.apple.designer.cs" />
 		<InterfaceDefinition Include="**\*.apple.xib" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
-		<PackageReference Include="Xamarin.Forms" Version="5.0.0.2083" />
-		<PackageReference Include="Fody" Version="6.2.4">
-			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-			<PrivateAssets>all</PrivateAssets>
-		</PackageReference>
-		<PackageReference Include="PropertyChanged.Fody" Version="3.2.8" />
-	</ItemGroup>
-
-	<ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-		<None Include="Resources\AboutResources.txt" />
-
-
-		<AndroidResource Include="Resources\xml\*.xml;Resources\font\*.*;Resources\values\*.xml" />
-
-		<AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;" />
-		<AndroidResource Include="Resources\drawable\*.jpg;Resources\drawable\*.png;" />
-
-
-		<AndroidResource Include="Resources\layout\*.xml;Resources\drawable\*.xml">
-			<Generator>MSBuild:UpdateAndroidResources</Generator>
-			<SubType>Designer</SubType>
-		</AndroidResource>
-
-		<Reference Include="Microsoft.CSharp" />
-		<Reference Include="Mono.Android" />
-		<Reference Include="mscorlib" />
-		<Reference Include="System" />
-		<Reference Include="System.Core" />
-		<Reference Include="System.Xml.Linq" />
-		<Reference Include="System.Xml" />
-		<Reference Include="System.Web.Services" />
-		<!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />-->
-
-		<Reference Include="System.Numerics" />
-		<Reference Include="System.Numerics.Vectors" />
-
-	</ItemGroup>
-	<ItemGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-		<PackageReference Include="Xamarin.AndroidX.Browser">
-			<Version>1.3.0.6</Version>
-		</PackageReference>
-		<PackageReference Include="Xamarin.AndroidX.CoordinatorLayout">
-			<Version>1.1.0.8</Version>
-		</PackageReference>
-		<PackageReference Include="Xamarin.AndroidX.Legacy.Support.V4">
-			<Version>1.0.0.8</Version>
-		</PackageReference>
-		<PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData">
-			<Version>2.3.1.1</Version>
-		</PackageReference>
-		<PackageReference Include="Xamarin.AndroidX.Migration">
-			<Version>1.0.8</Version>
-		</PackageReference>
-		<PackageReference Include="Xamarin.AndroidX.CardView" Version="1.0.0.9" />
-		<PackageReference Include="Xamarin.AndroidX.ViewPager2" Version="1.0.0.10" />
-		<PackageReference Include="Xamarin.Google.Android.Material" Version="1.2.1.1" />
-		<PackageReference Include="Xamarin.AndroidX.ConstraintLayout" Version="2.1.0" />
-		<PackageReference Include="Xamarin.AndroidX.RecyclerView" Version="1.2.1.1" />
-		<PackageReference Include="Xamarin.AndroidX.Core" Version="1.6.0.1" />
-	</ItemGroup>
-
-	<PropertyGroup Condition=" $(TargetFramework.StartsWith('MonoAndroid')) ">
-		<RootNamespace>Plugin.Angpysha.LeftTabbedPage</RootNamespace>
-		<AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
-		<AndroidResgenClass>Resource</AndroidResgenClass>
-		<MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
-		<MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-		<AndroidUseIntermediateDesignerFile>true</AndroidUseIntermediateDesignerFile>
-		<AndroidUseManagedDesignTimeResourceGenerator>False</AndroidUseManagedDesignTimeResourceGenerator>
-		<AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-		<TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
-		<!--   <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
-           <AndroidUseAapt2>true</AndroidUseAapt2>-->
-	</PropertyGroup>
-
-	<!--<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets"
-            Condition=" $(TargetFramework.StartsWith('MonoAndroid')) "/>-->
-	<ItemGroup>
-		<None Remove="Shared\ContentPageEx.shared.cs" />
-		
-	</ItemGroup>
-	<ItemGroup>
-	  <None Update="UWP\Resources.uwp.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </None>
+	  <MauiXaml Remove="Platforms\Windows\Controls\LeftTabbedMainPageContainer.uwp.xaml" />
+	  <MauiXaml Remove="Platforms\Windows\Resources.uwp.xaml" />
 	</ItemGroup>
 
 
 
-	<!--Additional item groups-->
-	<!--
-    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.TVOS')) ">
-      <Compile Include="**\*.tvos.cs" />
-    </ItemGroup>
-  
-  
-    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.WatchOS')) ">
-      <Compile Include="**\*.watchos.cs" />
-    </ItemGroup>
-  
-  
-    <ItemGroup Condition=" $(TargetFramework.StartsWith('Xamarin.Mac')) ">
-      <Compile Include="**\*.mac.cs" />
-    </ItemGroup>
-  
-    
-     <ItemGroup Condition=" $(TargetFramework.StartsWith('netcoreapp')) ">
-      <Compile Include="**\*.netcore.cs" />
-    </ItemGroup>
-    
-    <ItemGroup Condition=" $(TargetFramework.StartsWith('Tizen')) ">
-      <Compile Include="**\*.tizen.cs" />
-      <PackageReference Include="Tizen.NET" Version="4.0.0" />
-    </ItemGroup>
-  
-    <ItemGroup Condition=" $(TargetFramework.StartsWith('net45')) ">
-      <Compile Include="**\*.dotnet.cs" />
-    </ItemGroup>
-    -->
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
-using Xamarin.Forms;
+using Microsoft.Maui.Controls;
 using PropertyChanged;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Shared

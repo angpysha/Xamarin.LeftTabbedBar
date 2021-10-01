@@ -5,8 +5,8 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Runtime.Versioning;
 using System.Text;
-using Xamarin.Forms;
-using Xamarin.Forms.Platform.Android;
+//using Xamarin.Forms;
+//using Xamarin.Forms.Platform.Android;
 using Plugin.Angpysha.LeftTabbedPage;
 using Android.Views;
 using Plugin.Angpysha.LeftTabbedPage.Shared;
@@ -20,14 +20,19 @@ using Android.Widget;
 using AndroidX.Fragment.App;
 using AndroidX.ViewPager2.Widget;
 using Plugin.Angpysha.LeftTabbedPage.Android.Controls;
-using Xamarin.Essentials;
-using Platform = Xamarin.Forms.Platform.Android.Platform;
+using Microsoft.Maui.Controls.Compatibility.Platform.Android;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Platform;
+using Microsoft.Maui.Graphics;
+//using Xamarin.Essentials;
+//using Platform = Xamarin.Forms.Platform.Android.Platform;
 
-[assembly: ExportRenderer(typeof(LeftTabbedPage), typeof(LeftTabbedPageRenderer))]
+//[assembly: ExportRenderer(typeof(LeftTabbedPage), typeof(LeftTabbedPageRenderer))]
+//Xamarin.Forms.PlatformConfiguration.Android
 namespace Plugin.Angpysha.LeftTabbedPage.Android
 {
     public class LeftTabbedPageRenderer : VisualElementRenderer<Shared.LeftTabbedPage>,
-        IPlatformElementConfiguration<Xamarin.Forms.PlatformConfiguration.Android, Shared.LeftTabbedPage>
+        IPlatformElementConfiguration<Microsoft.Maui.Controls.PlatformConfiguration.Android, Shared.LeftTabbedPage>
     {
         private bool inited = false;
         internal global::Android.Views.View view;
@@ -53,7 +58,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
         {
             base.OnElementPropertyChanged(sender, e);
 
-            if (e.PropertyName == nameof(Xamarin.Forms.TabbedPage.CurrentPage))
+            if (e.PropertyName == nameof(TabbedPage.CurrentPage))
             {
                 // AdapterOnOnItemClicked();
                 var index = Element.Children.IndexOf(Element.CurrentPage);
@@ -68,6 +73,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
             if (e.NewElement != null)
             {
                 var inflater = (LayoutInflater)Context.GetSystemService(Context.LayoutInflaterService);
+
                 view = inflater.Inflate(Resource.Layout.activity_main_android, null, false);
                 view.LayoutParameters = new ViewGroup.LayoutParams(LayoutParams.MatchParent, LayoutParams.MatchParent);
                 AddView(view);
@@ -128,7 +134,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
                 {
                     height = Element.HeaderHeight;
                 }
-
+               // var tt = null;
+             //   (tt as Microsoft.Maui.Controls.View).bac
                 //  Element.Header.Layout(new Rectangle(0,0,width, height));
                 var dm = Context.Resources.DisplayMetrics;
                 var renderer = Platform.CreateRendererWithContext(Element.Header, Context);

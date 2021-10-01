@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Text;
 using Android.Provider;
 using Plugin.Angpysha.LeftTabbedPage.Shared;
-using Xamarin.Forms;
 using MenuItem = Plugin.Angpysha.LeftTabbedPage.Shared.MenuItem;
+using Microsoft.Maui.Controls;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
 {

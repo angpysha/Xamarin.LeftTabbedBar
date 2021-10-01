@@ -1,19 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Drawing;
 using System.Linq;
 using CoreGraphics;
 using Foundation;
+using Microsoft.Maui;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Compatibility;
+using Microsoft.Maui.Controls.Compatibility.Platform.iOS;
+using Microsoft.Maui.Controls.Platform;
+using Microsoft.Maui.Graphics;
 using UIKit;
-using Xamarin.Essentials;
-using Xamarin.Forms;
-using Xamarin.Forms.Internals;
-using Xamarin.Forms.Platform.iOS;
-using Color = Xamarin.Forms.Color;
-using Platform = Xamarin.Forms.Platform.iOS.Platform;
-using Rectangle = Xamarin.Forms.Rectangle;
-using Size = Xamarin.Forms.Size;
+
 
 namespace Plugin.Angpysha.LeftTabbedPage.iOS
 {
@@ -55,7 +53,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
              _tabBarView.Layer.ShadowRadius = 5f;
              _tabBarView.Layer.ShadowOffset = new CGSize(0.0f, 4.0f);
              _tabBarView.Layer.ShadowOpacity = 0.25f;
-             _tabBarView.Layer.BorderColor = Color.LightGray.ToCGColor();
+            _tabBarView.Layer.BorderColor = Colors.LightGray.ToNative().CGColor;
              _tabBarView.Layer.BorderWidth = 1f;
              _tabBarView.TabSelected += OnTabSelected;
              NativeView.AddSubview(_tabBarView);
@@ -149,7 +147,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
             _tabBarView.SetData(menuItems);
             
             element?.SendViewInitialized(NativeView);
-            EffectUtilities.RegisterEffectControlProvider(this, oldElement, element);
+          //  EffectUtilities.RegisterEffectControlProvider(this, oldElement, element);
         }
 
         public void ReloadTabs(List<Shared.MenuItem> menuItems)
@@ -292,7 +290,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.iOS
 
         protected virtual void OnPropertyChanged(object sender, PropertyChangedEventArgs args)
         {
-            if (args.PropertyName == nameof(Xamarin.Forms.TabbedPage.CurrentPage))
+            if (args.PropertyName == nameof(TabbedPage.CurrentPage))
             {
                 var current = TabbedPage.CurrentPage;
                 if (current == null)

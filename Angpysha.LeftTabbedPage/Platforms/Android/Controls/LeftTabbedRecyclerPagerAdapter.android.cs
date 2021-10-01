@@ -3,18 +3,18 @@ using Android.Views;
 using AndroidX.RecyclerView.Widget;
 using System;
 using System.Collections.Generic;
-using System.Runtime.Remoting.Contexts;
 using System.Text;
 using Android.Graphics.Drawables;
 using Android.Runtime;
 using Android.Util;
 using Android.Widget;
-using Xamarin.Forms;
 using Context = Android.Content.Context;
-using Xamarin.Forms.Platform.Android;
 using Color = Android.Graphics.Color;
 using Object = Java.Lang.Object;
 using View = Android.Views.View;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Compatibility.Platform.Android;
+using Microsoft.Maui.Graphics;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
 {

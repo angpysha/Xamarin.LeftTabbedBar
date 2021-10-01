@@ -1,7 +1,8 @@
-﻿using System;
+﻿using Microsoft.Maui.Controls;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using Xamarin.Forms;
+using Microsoft.Maui.Graphics;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Shared
 {
@@ -43,7 +44,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         public static readonly BindableProperty ActiveTabTintColorProperty = BindableProperty.Create(nameof(ActiveTabTintColor),
             typeof(Color),
             typeof(LeftTabbedPage),
-            Color.Blue);
+            Colors.Blue);
 
         public Color ActiveTabTintColor
         {
@@ -54,7 +55,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Shared
         public static readonly BindableProperty InactiveTabTintColorProperty = BindableProperty.Create(nameof(InactiveTabTintColor),
             typeof(Color),
             typeof(LeftTabbedPage),
-            Color.Gray);
+            Colors.Gray);
 
         public Color InactiveTabTintColor
         {

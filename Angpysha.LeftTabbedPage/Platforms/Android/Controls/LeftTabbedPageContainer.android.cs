@@ -8,8 +8,8 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
-using Xamarin.Forms;
-using Xamarin.Forms.Platform.Android;
+using Microsoft.Maui.Controls.Compatibility.Platform.Android;
+using Microsoft.Maui.Graphics;
 
 namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
 {

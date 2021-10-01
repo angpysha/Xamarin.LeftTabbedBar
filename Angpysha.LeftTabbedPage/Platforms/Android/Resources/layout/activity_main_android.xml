@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="64dp"
+        android:layout_height="match_parent"
+        app:cardElevation="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lefttabed_tabbar_header"
+                android:layout_alignParentTop="true"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/lefttabbed_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/lefttabed_tabbar_header"
+                android:layout_above="@+id/lefttabed_tabbar_footer" />
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lefttabed_tabbar_footer"
+                android:layout_alignParentBottom="true"
+             />
+            />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/lefttabbed_viewpager"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/cardView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--<androidx.recyclerview.widget.RecyclerView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/pages_recyclerview"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cardView"
+        app:layout_constraintEnd_toEndOf="parent"/>-->
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using UIKit;
-using Xamarin.Forms;
 
 namespace Plugin.Angpysha.LeftTabbedPage
 {

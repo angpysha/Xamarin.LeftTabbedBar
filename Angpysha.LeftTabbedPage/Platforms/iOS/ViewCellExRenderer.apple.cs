@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Controls.Compatibility.Platform.iOS;
 using Plugin.Angpysha.LeftTabbedPage.iOS;
 using Plugin.Angpysha.LeftTabbedPage.Shared;
 using UIKit;
-using Xamarin.Forms;
-using Xamarin.Forms.Platform.iOS;
 
-[assembly: ExportRenderer(typeof(ViewCellEx),typeof(ViewCellExRenderer))]
+//[assembly: ExportRenderer(typeof(ViewCellEx),typeof(ViewCellExRenderer))]
 namespace Plugin.Angpysha.LeftTabbedPage.iOS
 {
     public class ViewCellExRenderer : ViewCellRenderer
