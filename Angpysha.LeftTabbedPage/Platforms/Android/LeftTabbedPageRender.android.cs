@@ -24,6 +24,11 @@ using Microsoft.Maui.Controls.Compatibility.Platform.Android;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Controls.Platform;
 using Microsoft.Maui.Graphics;
+using Android.Graphics.Drawables;
+using AndroidX.ConstraintLayout.Widget;
+using AndroidX.CardView.Widget;
+using AndroidX.AppCompat.App;
+using Microsoft.Maui.Essentials;
 //using Xamarin.Essentials;
 //using Platform = Xamarin.Forms.Platform.Android.Platform;
 
@@ -44,6 +49,9 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
         private RecyclerViewAdapter _tabAdapter;
         private FrameLayout _headerViewContainer;
         private FrameLayout _footerViewContainer;
+        private ConstraintLayout _layout;
+        private CardView _cardView;
+        private RelativeLayout _cardContainer;
 
 
         public int CurrentIndex { get; set; }
@@ -72,17 +80,29 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
 
             if (e.NewElement != null)
             {
+              //  this.Background = new ColorDrawable(Colors.Green.ToAndroid());
                 var inflater = (LayoutInflater)Context.GetSystemService(Context.LayoutInflaterService);
-
+                var vg = this as ViewGroup;
                 view = inflater.Inflate(Resource.Layout.activity_main_android, null, false);
+          //      view.Background = new ColorDrawable(Colors.Red.ToAndroid());
                 view.LayoutParameters = new ViewGroup.LayoutParams(LayoutParams.MatchParent, LayoutParams.MatchParent);
                 AddView(view);
 
                 // lefttabbed_recycler
                 _recyclerView = view.FindViewById<RecyclerView>(Resource.Id.lefttabbed_recycler);
+             //   _recyclerView.Background = new ColorDrawable(Colors.Red.ToAndroid());
                 _viewPager = view.FindViewById<ViewPager2>(Resource.Id.lefttabbed_viewpager);
                 _headerViewContainer = view.FindViewById<FrameLayout>(Resource.Id.lefttabed_tabbar_header);
+               // _headerViewContainer.SetBackgroundColor(Colors.Yellow.ToAndroid());
                 _footerViewContainer = view.FindViewById<FrameLayout>(Resource.Id.lefttabed_tabbar_footer);
+                _layout = view.FindViewById<ConstraintLayout>(Resource.Id.coordinatorLayout);
+                _cardView = view.FindViewById<CardView>(Resource.Id.cardView);
+                _cardContainer = _cardView.GetChildAt(0) as RelativeLayout;
+               // _cardContainer = view.FindViewById<RelativeLayout>(Resource.Id.card_container);
+             //   _cardContainer.SetBackgroundColor(Colors.PowderBlue.ToAndroid());
+           //     _cardView.SetBackgroundColor(Colors.Yellow.ToAndroid());
+             //   _layout.SetBackgroundColor(Colors.Purple.ToAndroid());
+
                 SetMenuItems();
             }
         }
@@ -102,20 +122,25 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
             menuitems[0].Active = true;
             _tabAdapter = new RecyclerViewAdapter(menuitems,
                 new WeakReference<LeftTabbedPage.Shared.LeftTabbedPage>(Element), Context);
-            // _recyclerView.BackgroundColor = C
+      //      _recyclerView.Background = new ColorDrawable(Colors.Purple.ToAndroid());
             _recyclerView.SetLayoutManager(new LinearLayoutManager(Context));
             _recyclerView.SetAdapter(_tabAdapter);
             _tabAdapter.OnItemClicked += AdapterOnOnItemClicked;
             if (Context.GetActivity() is FragmentActivity fragmentActivity)
             {
-                _leftTabbedViewPagerAdapter = new LeftTabbedViewPagerAdapter(fragmentActivity, new WeakReference(this));
                 Fragments = Element.Children.Select(x => new LeftTabbedFragment(x, new WeakReference(this))).ToList();
+                var fomsActivity = (Context as AppCompatActivity);
+                var lifecycle = fomsActivity.Lifecycle;
+                var fragmentManager = Context.GetFragmentManager();
+                  _leftTabbedViewPagerAdapter = new LeftTabbedViewPagerAdapter(fragmentManager, lifecycle, new WeakReference(this));
+                //       var addaoter = new LeftTabbedRecyclerPagerAdapter(Element.Children.ToList(), new WeakReference<Shared.LeftTabbedPage>(Element), Context);
                 _leftTabbedViewPagerAdapter.AddFragments(Fragments);
-
-                _viewPager.Adapter = _leftTabbedViewPagerAdapter;
-                _viewPager.UserInputEnabled = false;
+                _viewPager.Orientation = (int)Orientation.Vertical;
+                MainThread.BeginInvokeOnMainThread(() => _viewPager.Adapter = _leftTabbedViewPagerAdapter);
+             //   _viewPager.Adapter = addaoter;
+              //  _viewPager.UserInputEnabled = false;
                 _viewPager.RegisterOnPageChangeCallback(new PageChangedCallback(new WeakReference(this)));
-                _viewPager.SetPageTransformer(null);
+              //  _viewPager.SetPageTransformer(null);
 
                 view.ViewTreeObserver.AddOnGlobalLayoutListener(new GlobalLayoutListenr(new WeakReference(this)));
 
@@ -138,7 +163,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
              //   (tt as Microsoft.Maui.Controls.View).bac
                 //  Element.Header.Layout(new Rectangle(0,0,width, height));
                 var dm = Context.Resources.DisplayMetrics;
-                var renderer = Platform.CreateRendererWithContext(Element.Header, Context);
+                var renderer = Microsoft.Maui.Controls.Compatibility.Platform.Android.Platform.CreateRendererWithContext(Element.Header, Context);
                 renderer.Element.Layout(new Rectangle(0, 0, width, height));
                 var widthPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, width, dm);
                 var heightPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, (float)height, dm);
@@ -147,6 +172,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
                 //  renderer.Tracker.UpdateLayout();
 
                 _headerViewContainer.AddView(renderer.View);
+              //  _headerViewContainer.Layout(0, 0, (int)widthPx, (int)heightPx);
             }
 
             if (Element.Footer != null)
@@ -164,7 +190,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
                 //}
 
                 var dm = Context.Resources.DisplayMetrics;
-                var renderer = Platform.CreateRendererWithContext(Element.Footer, Context);
+                var renderer = Microsoft.Maui.Controls.Compatibility.Platform.Android.Platform.CreateRendererWithContext(Element.Footer, Context);
                 renderer.Element.Layout(new Rectangle(0, 0, width, height));
                 var widthPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, width, dm);
                 var heightPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, (float)height, dm);
@@ -180,6 +206,8 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
             _viewPager.CurrentItem = e;
 
         }
+
+
 
 
         public class PageChangedCallback : ViewPager2.OnPageChangeCallback
@@ -228,11 +256,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
             {
                 if (renderer.view.Height > 0 && renderer._recyclerView.Width > 0)
                 {
-                    if (_skip)
-                    {
-                        _skip = false;
-                        return;
-                    }
+                    //if (_skip)
+                    //{
+                    //    _skip = false;
+                    //    return;
+                    //}
                     var pager = renderer._viewPager;
                     var index = pager.CurrentItem;
                     renderer._leftTabbedViewPagerAdapter.NotifyItemChanged(index);
@@ -249,17 +277,69 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android
         {
         }
 
+        public override void Draw(Canvas canvas)
+        {
+            base.Draw(canvas);
+        }
+
         protected override void OnLayout(bool changed, int l, int t, int r, int b)
         {
-            if (inited)
-                return;
+            //if (inited)
+            //    return;
 
-            inited = true;
-            //base.OnLayout(changed, l, t, r, b);
-            var msw = MeasureSpec.MakeMeasureSpec(r - l, MeasureSpecMode.Exactly);
-            var msh = MeasureSpec.MakeMeasureSpec(b - t, MeasureSpecMode.Exactly);
-            view.Measure(msw, msh);
-            view.Layout(0, 0, r - l, b - t);
+            //inited = true;
+            ////base.OnLayout(changed, l, t, r, b);
+            //var msw = MeasureSpec.MakeMeasureSpec(r - l, MeasureSpecMode.Exactly);
+            //var msh = MeasureSpec.MakeMeasureSpec(b - t, MeasureSpecMode.Exactly);
+            //view.Measure(msw, msh);
+            //view.Layout(0, 0, r - l, b - t);
+
+
+
+            //FormsViewPager pager = _viewPager;
+            //Context context = Context;
+
+            var width = r - l;
+            var height = b - t;
+            view.Layout(0, 0, width, height);
+            //  _recyclerView.Layout(0, 0, 64, height);
+            var widthPixels = TypedValue.ApplyDimension(ComplexUnitType.Dip,64, Context.Resources.DisplayMetrics);
+            _cardView.Layout(0, 0, (int)widthPixels, height);
+            _cardContainer.Layout(0, 0, (int) widthPixels, height);
+            _viewPager.Layout((int)widthPixels, 0, (int)(width - 0), height);
+            _viewPager.SetBackgroundColor(Colors.Thistle.ToAndroid());
+            //_viewPager.SetBackgroundColor(Colors.DimGrey.ToAndroid());
+
+            var headerMeasure = Element.Header.Measure(double.MaxValue, double.MaxValue);
+
+            var headerHeight = headerMeasure.Request.Height != 0
+                ? headerMeasure.Request.Height
+                : headerMeasure.Minimum.Height;
+
+            if (Element.HeaderHeight != 0)
+            {
+                headerHeight = (int)Element.HeaderHeight;
+            }
+            var headerHeightPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, (float)headerHeight, Context.Resources.DisplayMetrics);
+
+            _headerViewContainer.Layout(0, 0, (int)widthPixels, (int)headerHeightPx);
+
+            var footerMeasure = Element.Footer.Measure(double.MaxValue, double.MaxValue);
+
+            var footerHeight = footerMeasure.Request.Height != 0
+                ? footerMeasure.Request.Height
+                : footerMeasure.Minimum.Height;
+
+            var footerHeightPx = TypedValue.ApplyDimension(ComplexUnitType.Dip, (float)footerHeight, Context.Resources.DisplayMetrics);
+
+            var recyclerHeight = height - footerHeightPx - headerHeightPx;
+
+            var footerOffset = headerHeightPx + recyclerHeight;
+
+         //   _footerViewContainer.Layout(0, (int)footerOffset, (int)widthPixels, (int)footerHeightPx);
+            _recyclerView.Layout(0, (int)headerHeightPx, (int)widthPixels, (int)recyclerHeight);
+       
+            base.OnLayout(changed, l, t, r, b);
         }
 
     }

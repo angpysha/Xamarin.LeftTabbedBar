@@ -32,7 +32,7 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            var view = inflater.Inflate(Resource.Layout.left_tabbed_fragment, container, false);
+          //  var view = inflater.Inflate(Resource.Layout.left_tabbed_fragment, container, false);
 
 
             var dm = Context.Resources.DisplayMetrics;
@@ -43,10 +43,13 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
             var newWidth = pxToDp((int)newWidthPixels, dm);
             var heightPixels = dm.HeightPixels;
             var height = pxToDp(heightPixels, dm);
-
-
-            var formsPageRenderer = Platform.CreateRendererWithContext(_page, Context);
-            Platform.SetRenderer(_page, formsPageRenderer);
+            var formsPageRenderer = Platform.GetRenderer(_page);
+            if (formsPageRenderer == null)
+            {
+                 Platform.SetRenderer(_page,Platform.CreateRendererWithContext(_page, Context));
+                formsPageRenderer = Platform.GetRenderer(_page);
+            }
+           // Platform.SetRenderer(_page, formsPageRenderer);
 
             formsPageRenderer.Element.Layout(new Rectangle(0,0,newWidth, height));
 

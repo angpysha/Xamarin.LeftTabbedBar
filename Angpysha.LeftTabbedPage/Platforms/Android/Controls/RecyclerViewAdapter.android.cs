@@ -77,6 +77,11 @@ namespace Plugin.Angpysha.LeftTabbedPage.Android.Controls
                 aView.LayoutParameters = layoutParams;
                 viewCell.View.Layout(new Rectangle(0, 0, 64, 64));
                 position++;
+                aView.Layout(0, 0, sizePx, sizePx);
+                var vv = new View(Context);
+                vv.LayoutParameters = layoutParams;
+                vv.Layout(0,0,sizePx, sizePx);
+                vv.SetBackgroundColor(Colors.Yellow.ToAndroid());   
                 return new RecyclerViewMenuItemViewHolder(aView);
             }
 
