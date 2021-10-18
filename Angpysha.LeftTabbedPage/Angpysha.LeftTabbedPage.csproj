@@ -99,6 +99,7 @@
     <Compile Include="**\*.apple.cs" />
     <Compile Include="**\*.apple.designer.cs" />
     <InterfaceDefinition Include="**\*.apple.xib" />
+    <BundleResource Include="**\*.plist" />
   </ItemGroup>
 
   <ItemGroup>

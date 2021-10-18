@@ -15,7 +15,7 @@ namespace Plugin.Angpysha.LeftTabbedPage
 
         static UIVerticalTabbarViewCell()
         {
-            Nib = UINib.FromName("UIVerticalTabbarViewCell", NSBundle.MainBundle);
+          //  Nib = UINib.FromName("UIVerticalTabbarViewCell", NSBundle.MainBundle);
         }
 
         protected UIVerticalTabbarViewCell(IntPtr handle) : base(handle)
